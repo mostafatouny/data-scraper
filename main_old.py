@@ -1,10 +1,11 @@
 # local files
-import parseURLToSoup
-import psql
+import parseURL.parseURLToSoup
+import fileStorage.psql
 import verifications
-import other
+import other.other
 import const
 
+# verifications.isNone shall be replaced anyway
 def findActivePageNode(soup_in):
     # a node which entails pages' nodes
     pagesListNode = soup_in.find('ul', {"class" : "pages"})

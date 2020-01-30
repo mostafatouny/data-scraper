@@ -1,5 +1,5 @@
 # local files
-import traverseNodes
+import nodeTraverse.traverseNodes as traverseNodes
 
 # soup_in is a soup object
 # elemsListPath is a tagSequence which reaches the node containing list of elements
@@ -36,15 +36,15 @@ def scrapeURLToList(soup_in, elemsListPath, data_ColumnsPaths, limit_in = -1, sp
         temElem = {}
 
         # iterate through each column
-        for index_num in range(data_ColumnsPaths.getColumnsNum()):
+        for column_ob in data_ColumnsPaths:
             # initialize traverser on an element
             nodeTrav = elemNode
             # traverse by the sequence of tagsIdentities
-            dataInstanceNode = traverseNodes.reachNodeBySequence(nodeTrav, data_ColumnsPaths.getPathByIndex(index_num))
+            dataInstanceNode = traverseNodes.reachNodeBySequence(nodeTrav, column_ob.getColumnPath())
 
             # get the attribute in which data is contained
             # if -1 is returned, then it indicates data is not within an attribute but in tag's text
-            dataType = data_ColumnsPaths.getAttributeOfData(index_num)
+            dataType = column_ob.getColumnAttributeOfData()
             if dataType != -1:
                 assert dataType in dataInstanceNode.attrs, "attribute of data is not in reached node"
                 concreteData = dataInstanceNode[dataType]
@@ -52,8 +52,8 @@ def scrapeURLToList(soup_in, elemsListPath, data_ColumnsPaths, limit_in = -1, sp
                 concreteData = dataInstanceNode.get_text()
 
             # assign concrete data to its proper column name
-            temElem[data_ColumnsPaths.getColumnName(index_num)] = concreteData
-
+            temElem[column_ob.getColumnName()] = concreteData
+            
         # append scraped elem data into whole data's list
         scrapedData.append(temElem)
 

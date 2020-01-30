@@ -2,8 +2,7 @@
 import psycopg2
 
 # local files
-import verifications
-import sqlQueryConst
+import fileStorage.sqlQueryConst as sqlQueryConst
 
 class db():
 

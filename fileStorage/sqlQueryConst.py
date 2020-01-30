@@ -1,19 +1,19 @@
-import verifications
+import verifications.verifications as verifications
 
 # construct a sql query to crate a table based on a defined schema as dictionary
 #   schema is: column-name:[data-type, optional args.. ]
 #       data-type: int; varchar; date. varchar must specifiy <num> arg
 def parseCreateTableQuery(tableSchemaDict_in, tableName_in):
     # check table schema is a dictionary
-    if verifications.isElemNotOfType(tableSchemaDict_in, dict):
-        return
+    assert isinstance(tableSchemaDict_in, dict), "tableSchemaDict_in is not of type dictionary"
+
     # get data types
     dataTypes = []
     for i in tableSchemaDict_in.values():
         dataTypes.append(i[0])
     # check whether user's input conforms to specified ones
-    if verifications.isListElemsNotOneOf(dataTypes, ["int", "varchar", "date"]):
-        return
+    for elem in dataTypes:
+        assert (elem == "int" or elem == "varchar" or elem == "data"), "list elements are not within specified valid ones"
 
     sqlQuery = "CREATE TABLE " + tableName_in + " (\n"
     sqlQuery = sqlQuery + "\tid serial PRIMARY KEY,\n"
@@ -27,8 +27,7 @@ def parseCreateTableQuery(tableSchemaDict_in, tableName_in):
     for idx in range(dicLen):
         sqlQuery = sqlQuery + "\t" + dicItems[idx][0] + " " + dicItems[idx][1][0]
         if dicItems[idx][1][0] == "varchar":
-            if verifications.isListLessThan(dicItems[idx][1], 2):
-                return
+            assert len(dicItems[idx][1]) >= 2, str(dicItems[idx][1]) + " length is less than 2"
             sqlQuery = sqlQuery + " (" + str(dicItems[idx][1][1]) + ")"
         if idx < dicLen-1:
             sqlQuery = sqlQuery + ","
@@ -40,12 +39,11 @@ def parseCreateTableQuery(tableSchemaDict_in, tableName_in):
 
 def parseInsertIntoQuery(dictDataList_in, tableName_in):
     # verify list's elements are non-empty dictionary of the same schema
-    if (verifications.isListEmpty(dictDataList_in)):
-        return
-    if (verifications.isListNotOfType(dictDataList_in, dict)):
-        return
-    if (verifications.isAllDictListNotSame(dictDataList_in)):
-        return
+    assert len(dictDataList_in) > 0, str(dictDataList_in) + " list is empty"
+    for elem in dictDataList_in:
+        assert isinstance(elem, dict), str(elem) + " is not of type dictionary"
+
+    assert verifications.isAllDictListSame(dictDataList_in), "dictionary elements are not of the same schema"
 
     # find dictionary keys, from first element
     keysList = list(dictDataList_in[0].keys())
