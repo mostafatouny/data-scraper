@@ -1,0 +1,2 @@
+# To ignore any directories named __pycache__ in any depth use
+**/__pycache__/
