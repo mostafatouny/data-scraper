@@ -11,6 +11,8 @@ class tagSequence:
                 temTagIdentity = tagIdentity.tagIdentity(elem[0], elem[1])
             elif len(elem) == 3:
                 temTagIdentity = tagIdentity.tagIdentity(elem[0], elem[1], elem[2])
+            else:
+                raise valueError("a tag's identitiy length is not within [1,3] range")
             self.tagIdentityList.append(temTagIdentity)
 
         # set starting iterator index as the end of list

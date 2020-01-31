@@ -38,11 +38,11 @@ headers = {
 mainURL = "http://www.vgchartz.com"
 subURL = "/gamedb/games.php?name=dragon+age+inquisition"
 
-listNodeSequence = tagSequence.tagSequence([('table', {}, 0), ('div', {"id":"generalBody"}), ('div', {"id": "generalBodyBox2"}), ('td', {"valign":"top"}), ('tr', {}), ('table', {}), ('div', {"id":"mainContainerSub"}), ('div', {"id":"mainContainer"}), ('div', {"style":"flex: 1; overflow: auto"}), ('body', {"style": "display: flex; height: 100%; flex-direction: column"}), ('html', {})])
+listNodeSequence = tagSequence.tagSequence([('table', {}, 0), ('div', {"id":"generalBody"}), ('div', {"id": "generalBodyBox2"}), ('td', {"valign":"top"}), ('tr',), ('table',), ('div', {"id":"mainContainerSub"}), ('div', {"id":"mainContainer"}), ('div', {"style":"flex: 1; overflow: auto"}), ('body', {"style": "display: flex; height: 100%; flex-direction: column"}), ('html',)])
 
 columns_paths = tagsPaths.tagsPaths(
 [
-('link', [('a', {}), ('td', {"style":"font-size:12pt;"})], 'href')
+('link', [('a',), ('td', {"style":"font-size:12pt;"})], 'href')
 ]
 )
 

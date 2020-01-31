@@ -53,7 +53,7 @@ def scrapeURLToList(soup_in, elemsListPath, data_ColumnsPaths, limit_in = -1, sp
 
             # assign concrete data to its proper column name
             temElem[column_ob.getColumnName()] = concreteData
-            
+
         # append scraped elem data into whole data's list
         scrapedData.append(temElem)
 
