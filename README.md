@@ -1,0 +1,1 @@
+See _metacritic2019_main.py_, _metacritic2019_functions.py_ and _metacritic2019_data.json_ for an example using the code. [Here](https://mostafatouny.github.io/post/scraping-metacritic/) is a brief blog post illustrating the project.
