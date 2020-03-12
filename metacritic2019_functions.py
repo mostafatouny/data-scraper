@@ -1,36 +1,57 @@
-import tagIdentifier.tagSequence as tagSequence
-import tagIdentifier.tagsPaths as tagsPaths
-import scrape.scrapeURLToList as scrapeURLToList
+import tagIdentifier.dataPathsList as dataPathsList
+import scrape.scrapeList as scrapeList
+import scrape.nodeByPaths as scrapeNodeByPaths
+import nodeTraverse.cssSelector as travByCssSel
 
 def scrapeGamesPage(soup_in):
-    listNodeSequence = tagSequence.tagSequence([('ol', {"class":"list_products list_product_condensed"}), ('div', {"class":"product_condensed"}), ('div', {"class": "body_wrap"}), ('div', {"class":"body"}), ('div', {"class":"module products_module list_product_condensed_module"}), ('div', {"class":"module filter score_filter"}), ('div', {"id":"main", "class":"col main_col"}), ('div', {"id":"gutters", "class":"site_gutters"}), ('div', {"class":"layout"}), ('div', {"id": "main_content", "class": "content_section mpu_layout"}), ('div', {"id":"col_layout", "class":"col_layout"}), ('div', {"id":"container"}), ('div', {"id":"gutters_top", "class":"site_gutters"}), ('div', {"id":"gutters_btm", "class":"site_gutters"}), ('div', {"id":"gutters_mid", "class":"site_gutters"}), ('div', {"id":"gutters", "class":"site_gutters"}), ('div', {"id":"site_layout"}), ('body', {"class":"skybox-auto-collapse"}), ('html', )])
-    columns_paths = tagsPaths.tagsPaths(
-    [
-    ('title', [('a',), ('div', {"class":"basic_stat product_title"}), ('div', {"class":"product_wrap"})], -1),
-    ('critic_rating', [('div',), ('div', {"class":"product_score"}), ('div', {"class":"product_wrap"})], -1),
-    ('user_rating', [('span', {"class":"textscore"}), ('li', {"class":"product_avguserscore"}), ('ul',), ('div', {"class":"condensed_stats"}), ('div', {"class":"product_wrap"})], -1),
-    ('release_date', [('span', {"class":"data"}), ('li', {"class":"release_date"}), ('ul',), ('div', {"class":"condensed_stats"}), ('div', {"class":"product_wrap"})], -1)
-    ]
-    )
-    return scrapeURLToList.scrapeURLToList(soup_in, listNodeSequence, columns_paths)
+    listNodeSequence = '.list_product_condensed'
+    data_paths = dataPathsList.dataPathsList([
+        ('link', 'div:nth-child(1) > div:nth-child(1) > a:nth-child(1)', 'href')
+    ])
+    return scrapeList.scrapeList(soup_in, listNodeSequence, data_paths)
+
+def scrapeGamesDetailPage(soup_in):
+    listNode = travByCssSel.reachNodeByCssSelector(soup_in, 'div.product_split:nth-child(1) > div:nth-child(1)')
+    data_paths = dataPathsList.dataPathsList([
+        ('name', 'div.product_title > a:nth-child(1) > h1:nth-child(1)', -1),
+        ('publisher', '.publisher > span:nth-child(2) > a:nth-child(1)', -1),
+        ('developer', '.developer > span:nth-child(2)', -1),
+        ('release_data', '.release_data > span:nth-child(2)', -1),
+        ('critic_rating', '.xlarge > span:nth-child(2)', -1),
+        ('users_rating', 'div.large:nth-child(1)', -1)
+    ])
+    temElem = scrapeNodeByPaths.scrapeNodeByPaths(listNode, data_paths)
+
+    data_paths = dataPathsList.dataPathsList([
+    ('genre', '', -1)
+    ])
+    genreDictList = scrapeList.scrapeList(soup_in, '.product_genre', data_paths)
+
+    # remove first element --the title
+    genreDictList = genreDictList[1:]
+    # get links from dictionaries into a list
+    genreList = []
+    for el in genreDictList:
+        genreList.append(el['genre'])
+
+    # add genres list into the element
+    temElem['genres'] = genreList
+
+    return temElem
 
 def scrapePagePositions(soup_in):
-    listNodeSequence = tagSequence.tagSequence([('ul', {"class":"pages"}), ('div', {"class":"pages"}), ('div', {"class":"page_nav_wrap"}), ('div', {"class":"page_nav"}), ('div', {"class":"module filter score_filter"}), ('div', {"id":"main", "class":"col main_col"}), ('div', {"id":"gutters", "class":"site_gutters"}), ('div', {"class":"layout"}), ('div', {"id": "main_content", "class": "content_section mpu_layout"}), ('div', {"id":"col_layout", "class":"col_layout"}), ('div', {"id":"container"}), ('div', {"id":"gutters_top", "class":"site_gutters"}), ('div', {"id":"gutters_btm", "class":"site_gutters"}), ('div', {"id":"gutters_mid", "class":"site_gutters"}), ('div', {"id":"gutters", "class":"site_gutters"}), ('div', {"id":"site_layout"}), ('body', {"class":"skybox-auto-collapse"}), ('html', )])
-    columns_paths = tagsPaths.tagsPaths(
-    [
-    ('pagePosition', [], 'class'),
-    ]
-    )
-    return scrapeURLToList.scrapeURLToList(soup_in, listNodeSequence, columns_paths)
+    listNodeSequence = 'ul.pages'
+    data_paths = dataPathsList.dataPathsList([
+        ('pagePosition', '', 'class'), #empty string is hardcoded by me, not a css selector method
+    ])
+    return scrapeList.scrapeList(soup_in, listNodeSequence, data_paths)
 
-def scrapePageLinks(soup_in, indicesList):
-    listNodeSequence = tagSequence.tagSequence([('ul', {"class":"pages"}), ('div', {"class":"pages"}), ('div', {"class":"page_nav_wrap"}), ('div', {"class":"page_nav"}), ('div', {"class":"module filter score_filter"}), ('div', {"id":"main", "class":"col main_col"}), ('div', {"id":"gutters", "class":"site_gutters"}), ('div', {"class":"layout"}), ('div', {"id": "main_content", "class": "content_section mpu_layout"}), ('div', {"id":"col_layout", "class":"col_layout"}), ('div', {"id":"container"}), ('div', {"id":"gutters_top", "class":"site_gutters"}), ('div', {"id":"gutters_btm", "class":"site_gutters"}), ('div', {"id":"gutters_mid", "class":"site_gutters"}), ('div', {"id":"gutters", "class":"site_gutters"}), ('div', {"id":"site_layout"}), ('body', {"class":"skybox-auto-collapse"}), ('html', )])
-    columns_paths = tagsPaths.tagsPaths(
-    [
-    ('pageLink', [('a',)], 'href'),
-    ]
-    )
-    return scrapeURLToList.scrapeURLToList(soup_in, listNodeSequence, columns_paths, -1, indicesList)
+def scrapePageLinks(soup_in, indicesList_in):
+    listNodeSequence = 'ul.pages'
+    data_paths = dataPathsList.dataPathsList([
+        ('pageLink', 'a:nth-child(1)', 'href'),
+    ])
+    return scrapeList.scrapeList(soup_in, listNodeSequence, data_paths, -1, indicesList_in)
 
 def findPageIndex(pagesPositions_in, keyword_in):
     for page in pagesPositions_in:

@@ -1,1550 +1,4342 @@
 [
 	{
 		"critic_rating": "91",
-		"release_date": "Jul  2, 2019",
-		"title": "\n                            Final Fantasy XIV: Shadowbringers\n                                                    ",
-		"user_rating": "8.3"
+		"developer": "\n                    Square Enix                ",
+		"genres": [
+			"Role-Playing",
+			"Massively Multiplayer"
+		],
+		"name": "Final Fantasy XIV: Shadowbringers",
+		"publisher": "\n                                                        Square Enix\n                                                    ",
+		"release_data": "Jul  2, 2019",
+		"users_rating": "8.3"
 	},
 	{
 		"critic_rating": "91",
-		"release_date": "Feb 26, 2019",
-		"title": "\n                            NieR: Automata - Game of the YoRHa Edition\n                                                    ",
-		"user_rating": "8.4"
+		"developer": "\n                    PlatinumGames                ",
+		"genres": [
+			"Role-Playing",
+			"Action RPG"
+		],
+		"name": "NieR: Automata - Game of the YoRHa Edition",
+		"publisher": "\n                                                        Square Enix\n                                                    ",
+		"release_data": "Feb 26, 2019",
+		"users_rating": "8.5"
 	},
 	{
 		"critic_rating": "91",
-		"release_date": "Jan 25, 2019",
-		"title": "\n                            Resident Evil 2\n                                                    ",
-		"user_rating": "8.8"
+		"developer": "\n                    Capcom R&D Division 1                ",
+		"genres": [
+			"Action Adventure",
+			"Survival"
+		],
+		"name": "Resident Evil 2",
+		"publisher": "\n                                                        Capcom\n                                                    ",
+		"release_data": "Jan 25, 2019",
+		"users_rating": "8.8"
 	},
 	{
 		"critic_rating": "90",
-		"release_date": "Mar 22, 2019",
-		"title": "\n                            Sekiro: Shadows Die Twice\n                                                    ",
-		"user_rating": "7.9"
+		"developer": "\n                    From Software                ",
+		"genres": [
+			"Action Adventure",
+			"General"
+		],
+		"name": "Sekiro: Shadows Die Twice",
+		"publisher": "\n                                                        Activision\n                                                    ",
+		"release_data": "Mar 22, 2019",
+		"users_rating": "7.9"
 	},
 	{
 		"critic_rating": "89",
-		"release_date": "Sep  6, 2019",
-		"title": "\n                            Monster Hunter: World - Iceborne\n                                                    ",
-		"user_rating": "8.4"
+		"developer": "\n                    Capcom                ",
+		"genres": [
+			"Role-Playing",
+			"Action RPG"
+		],
+		"name": "Monster Hunter: World - Iceborne",
+		"publisher": "\n                                                        Capcom\n                                                    ",
+		"release_data": "Sep  6, 2019",
+		"users_rating": "8.4"
 	},
 	{
 		"critic_rating": "89",
-		"release_date": "Feb  4, 2019",
-		"title": "\n                            Apex Legends\n                                                    ",
-		"user_rating": "6.7"
+		"developer": "\n                    Respawn Entertainment                ",
+		"genres": [
+			"Action",
+			"Shooter",
+			"First-Person",
+			"Tactical"
+		],
+		"name": "Apex Legends",
+		"publisher": "\n                                                        Electronic Arts\n                                                    ",
+		"release_data": "Feb  4, 2019",
+		"users_rating": "6.7"
 	},
 	{
 		"critic_rating": "88",
-		"release_date": "Mar  8, 2019",
-		"title": "\n                            Devil May Cry 5\n                                                    ",
-		"user_rating": "8.4"
+		"developer": "\n                    Capcom                ",
+		"genres": [
+			"Action Adventure",
+			"General"
+		],
+		"name": "Devil May Cry 5",
+		"publisher": "\n                                                        Capcom\n                                                    ",
+		"release_data": "Mar  8, 2019",
+		"users_rating": "8.4"
 	},
 	{
 		"critic_rating": "88",
-		"release_date": "May 21, 2019",
-		"title": "\n                            Slay the Spire\n                                                    ",
-		"user_rating": "5.8"
+		"developer": "\n                    Mega Crit Games                ",
+		"genres": [
+			"Strategy",
+			"Turn-Based",
+			"Card Battle"
+		],
+		"name": "Slay the Spire",
+		"publisher": "\n                                                        Humble Bundle\n                                                    ",
+		"release_data": "May 21, 2019",
+		"users_rating": "6.0"
 	},
 	{
 		"critic_rating": "87",
-		"release_date": "Oct 11, 2019",
-		"title": "\n                            Frostpunk: Console Edition\n                                                    ",
-		"user_rating": "7.3"
+		"developer": "\n                    11 bit studios                ",
+		"genres": [
+			"Action Adventure",
+			"Survival"
+		],
+		"name": "Frostpunk: Console Edition",
+		"publisher": "\n                                                        11 bit studios\n                                                    ",
+		"release_data": "Oct 11, 2019",
+		"users_rating": "7.3"
 	},
 	{
 		"critic_rating": "87",
-		"release_date": "Nov 22, 2019",
-		"title": "\n                            Sid Meier's Civilization VI\n                                                    ",
-		"user_rating": "6.3"
+		"developer": "\n                    Aspyr                ",
+		"genres": [
+			"Strategy",
+			"Turn-Based",
+			"4X"
+		],
+		"name": "Sid Meier's Civilization VI",
+		"publisher": "\n                                                        2K Games\n                                                    ",
+		"release_data": "Nov 22, 2019",
+		"users_rating": "6.3"
 	},
 	{
 		"critic_rating": "86",
-		"release_date": "Jul 12, 2019",
-		"title": "\n                            Dragon Quest Builders 2\n                                                    ",
-		"user_rating": "7.7"
+		"developer": "\n                    Omega Force, Square Enix                ",
+		"genres": [
+			"Role-Playing",
+			"General",
+			"Action Adventure",
+			"Sandbox"
+		],
+		"name": "Dragon Quest Builders 2",
+		"publisher": "\n                                                        Square Enix\n                                                    ",
+		"release_data": "Jul 12, 2019",
+		"users_rating": "7.7"
 	},
 	{
 		"critic_rating": "86",
-		"release_date": "Feb 19, 2019",
-		"title": "\n                            Steins;Gate Elite\n                                                    ",
-		"user_rating": "7.1"
+		"developer": "\n                    5pb, Mages.                ",
+		"genres": [
+			"Action",
+			"Adventure",
+			"General",
+			"Visual Novel"
+		],
+		"name": "Steins;Gate Elite",
+		"publisher": "\n                                                        Spike Chunsoft\n                                                    ",
+		"release_data": "Feb 19, 2019",
+		"users_rating": "7.1"
 	},
 	{
 		"critic_rating": "86",
-		"release_date": "Sep 20, 2019",
-		"title": "\n                            Ni no Kuni: Wrath of the White Witch Remastered\n                                                    ",
-		"user_rating": "8.0"
+		"developer": "\n                    Level 5                ",
+		"genres": [
+			"Role-Playing",
+			"Japanese-Style"
+		],
+		"name": "Ni no Kuni: Wrath of the White Witch Remastered",
+		"publisher": "\n                                                        Bandai Namco Games\n                                                    ",
+		"release_data": "Sep 20, 2019",
+		"users_rating": "8.1"
 	},
 	{
 		"critic_rating": "86",
-		"release_date": "Apr 30, 2019",
-		"title": "\n                            Fell Seal: Arbiter's Mark\n                                                    ",
-		"user_rating": "6.4"
+		"developer": "\n                    1C Company                ",
+		"genres": [
+			"Strategy",
+			"Turn-Based",
+			"General",
+			"Tactics"
+		],
+		"name": "Fell Seal: Arbiter's Mark",
+		"publisher": "\n                                                        1C Entertainment\n                                                    ",
+		"release_data": "Apr 30, 2019",
+		"users_rating": "6.4"
 	},
 	{
 		"critic_rating": "86",
-		"release_date": "Mar 26, 2019",
-		"title": "\n                            MLB The Show 19\n                                                    ",
-		"user_rating": "7.8"
-	},
-	{
-		"critic_rating": "86",
-		"release_date": "Oct 25, 2019",
-		"title": "\n                            The Outer Worlds\n                                                    ",
-		"user_rating": "8.1"
+		"developer": "\n                    Sony Interactive Entertainment                ",
+		"genres": [
+			"Sports",
+			"Team",
+			"Baseball",
+			"Sim"
+		],
+		"name": "MLB The Show 19",
+		"publisher": "\n                                                        Sony Interactive Entertainment\n                                                    ",
+		"release_data": "Mar 26, 2019",
+		"users_rating": "7.8"
 	},
 	{
 		"critic_rating": "85",
-		"release_date": "May  2, 2019",
-		"title": "\n                            VA-11 Hall-A: Cyberpunk Bartender Action\n                                                    ",
-		"user_rating": "5.7"
+		"developer": "\n                    Obsidian Entertainment                ",
+		"genres": [
+			"Role-Playing",
+			"Western-Style"
+		],
+		"name": "The Outer Worlds",
+		"publisher": "\n                                                        Obsidian Entertainment\n                                                    ",
+		"release_data": "Oct 25, 2019",
+		"users_rating": "8.1"
+	},
+	{
+		"critic_rating": "85",
+		"developer": "\n                    Sukeban Games                ",
+		"genres": [
+			"Simulation",
+			"General"
+		],
+		"name": "VA-11 Hall-A: Cyberpunk Bartender Action",
+		"publisher": "\n                                                        Ysbryd Games\n                                                    ",
+		"release_data": "May  2, 2019",
+		"users_rating": "5.7"
 	},
 	{
 		"critic_rating": "84",
-		"release_date": "Feb 26, 2019",
-		"title": "\n                            DiRT Rally 2.0\n                                                    ",
-		"user_rating": "5.6"
+		"developer": "\n                    Codemasters                ",
+		"genres": [
+			"Racing",
+			"Simulation",
+			"Automobile"
+		],
+		"name": "DiRT Rally 2.0",
+		"publisher": "\n                                                        Codemasters\n                                                    ",
+		"release_data": "Feb 26, 2019",
+		"users_rating": "5.7"
 	},
 	{
 		"critic_rating": "84",
-		"release_date": "Jul 23, 2019",
-		"title": "\n                            Wargroove\n                                                    ",
-		"user_rating": "5.6"
+		"developer": "\n                    Chucklefish                ",
+		"genres": [
+			"Strategy",
+			"Turn-Based",
+			"Tactics"
+		],
+		"name": "Wargroove",
+		"publisher": "\n                                                        Chucklefish\n                                                    ",
+		"release_data": "Jul 23, 2019",
+		"users_rating": "5.6"
 	},
 	{
 		"critic_rating": "84",
-		"release_date": "Jun 25, 2019",
-		"title": "\n                            F1 2019\n                                                    ",
-		"user_rating": "7.6"
+		"developer": "\n                    Codemasters                ",
+		"genres": [
+			"Racing",
+			"Simulation",
+			"Automobile"
+		],
+		"name": "F1 2019",
+		"publisher": "\n                                                        Codemasters\n                                                    ",
+		"release_data": "Jun 25, 2019",
+		"users_rating": "7.6"
 	},
 	{
 		"critic_rating": "84",
-		"release_date": "Sep 19, 2019",
-		"title": "\n                            Sayonara Wild Hearts\n                                                    ",
-		"user_rating": "5.6"
+		"developer": "\n                    Simogo                ",
+		"genres": [
+			"Action",
+			"Rhythm",
+			"Music"
+		],
+		"name": "Sayonara Wild Hearts",
+		"publisher": "\n                                                        Annapurna Interactive\n                                                    ",
+		"release_data": "Sep 19, 2019",
+		"users_rating": "5.9"
 	},
 	{
 		"critic_rating": "83",
-		"release_date": "Apr  2, 2019",
-		"title": "\n                            FAR: Lone Sails\n                                                    ",
-		"user_rating": "4.4"
+		"developer": "\n                    Okomotive                ",
+		"genres": [
+			"Action",
+			"Platformer",
+			"2D"
+		],
+		"name": "FAR: Lone Sails",
+		"publisher": "\n                                                        Okomotive\n                                                    ",
+		"release_data": "Apr  2, 2019",
+		"users_rating": "4.9"
 	},
 	{
 		"critic_rating": "83",
-		"release_date": "Jun 18, 2019",
-		"title": "\n                            Bloodstained: Ritual of the Night\n                                                    ",
-		"user_rating": "8.4"
+		"developer": "\n                    ArtPlay                ",
+		"genres": [
+			"Action",
+			"Platformer",
+			"2D",
+			"Role-Playing",
+			"Action RPG"
+		],
+		"name": "Bloodstained: Ritual of the Night",
+		"publisher": "\n                                                        505 Games\n                                                    ",
+		"release_data": "Jun 18, 2019",
+		"users_rating": "8.4"
 	},
 	{
 		"critic_rating": "83",
-		"release_date": "Jun 21, 2019",
-		"title": "\n                            Crash Team Racing: Nitro-Fueled\n                                                    ",
-		"user_rating": "6.5"
+		"developer": "\n                    Beenox                ",
+		"genres": [
+			"Racing",
+			"Arcade",
+			"Automobile"
+		],
+		"name": "Crash Team Racing: Nitro-Fueled",
+		"publisher": "\n                                                        Activision\n                                                    ",
+		"release_data": "Jun 21, 2019",
+		"users_rating": "6.6"
 	},
 	{
 		"critic_rating": "83",
-		"release_date": "Jan 29, 2019",
-		"title": "\n                            Kingdom Hearts III\n                                                    ",
-		"user_rating": "8.1"
+		"developer": "\n                    Square Enix                ",
+		"genres": [
+			"Action RPG",
+			"Action Adventure",
+			"Fantasy",
+			"Role-Playing",
+			"Action RPG"
+		],
+		"name": "Kingdom Hearts III",
+		"publisher": "\n                                                        Square Enix\n                                                    ",
+		"release_data": "Jan 29, 2019",
+		"users_rating": "8.1"
 	},
 	{
 		"critic_rating": "83",
-		"release_date": "Aug 14, 2019",
-		"title": "\n                            No Man's Sky Beyond\n                                                    ",
-		"user_rating": "7.8"
+		"developer": "\n                    Ryu ga Gotoku Studios                ",
+		"genres": [
+			"Miscellaneous",
+			"Compilation"
+		],
+		"name": "The Yakuza Remastered Collection",
+		"publisher": "\n                                                        Sega\n                                                    ",
+		"release_data": "Aug 20, 2019",
+		"users_rating": "7.8"
+	},
+	{
+		"critic_rating": "83",
+		"developer": "\n                    Hello Games                ",
+		"genres": [
+			"Action Adventure",
+			"Open-World"
+		],
+		"name": "No Man's Sky Beyond",
+		"publisher": "\n                                                        Hello Games\n                                                    ",
+		"release_data": "Aug 14, 2019",
+		"users_rating": "7.8"
+	},
+	{
+		"critic_rating": "83",
+		"developer": "\n                    sebagamesdev                ",
+		"genres": [
+			"Action",
+			"Beat-'Em-Up",
+			"2D"
+		],
+		"name": "Fight'N Rage",
+		"publisher": "\n                                                        sebagamesdev\n                                                    ",
+		"release_data": "Dec  3, 2019",
+		"users_rating": "7.3"
+	},
+	{
+		"critic_rating": "83",
+		"developer": "\n                    Wargaming.net                ",
+		"genres": [
+			"Simulation",
+			"Marine",
+			"Combat"
+		],
+		"name": "World of Warships: Legends",
+		"publisher": "\n                                                        Wargaming.net\n                                                    ",
+		"release_data": "Apr 16, 2019",
+		"users_rating": "8.0"
+	},
+	{
+		"critic_rating": "83",
+		"developer": "\n                    Nippon Ichi Software                ",
+		"genres": [
+			"Strategy",
+			"Turn-Based",
+			"Tactics"
+		],
+		"name": "Disgaea 4 Complete+",
+		"publisher": "\n                                                        NIS America\n                                                    ",
+		"release_data": "Oct 29, 2019",
+		"users_rating": "6.3"
+	},
+	{
+		"critic_rating": "83",
+		"developer": "\n                    Those Awesome Guys                ",
+		"genres": [
+			"Action",
+			"General"
+		],
+		"name": "Move or Die",
+		"publisher": "\n                                                        Those Awesome Guys\n                                                    ",
+		"release_data": "Mar  5, 2019",
+		"users_rating": "6.2"
 	},
 	{
 		"critic_rating": "82",
-		"release_date": "Aug 27, 2019",
-		"title": "\n                            Wreckfest\n                                                    ",
-		"user_rating": "6.8"
+		"developer": "\n                    Bugbear                ",
+		"genres": [
+			"Racing",
+			"General",
+			"Arcade",
+			"Automobile"
+		],
+		"name": "Wreckfest",
+		"publisher": "\n                                                        THQ Nordic\n                                                    ",
+		"release_data": "Aug 27, 2019",
+		"users_rating": "6.9"
 	},
 	{
 		"critic_rating": "82",
-		"release_date": "Oct 15, 2019",
-		"title": "\n                            Outer Wilds\n                                                    ",
-		"user_rating": "6.9"
+		"developer": "\n                    Mobius Digital, LLC                ",
+		"genres": [
+			"Action Adventure",
+			"Open-World"
+		],
+		"name": "Outer Wilds",
+		"publisher": "\n                                                        Annapurna Interactive\n                                                    ",
+		"release_data": "Oct 15, 2019",
+		"users_rating": "7.2"
 	},
 	{
 		"critic_rating": "82",
-		"release_date": "Mar 12, 2019",
-		"title": "\n                            Tom Clancy's The Division 2\n                                                    ",
-		"user_rating": "7.0"
+		"developer": "\n                    Massive Entertainment                ",
+		"genres": [
+			"First-Person",
+			"Action",
+			"Shooter",
+			"Third-Person",
+			"Tactical"
+		],
+		"name": "Tom Clancy's The Division 2",
+		"publisher": "\n                                                        Ubisoft\n                                                    ",
+		"release_data": "Mar 12, 2019",
+		"users_rating": "7.0"
 	},
 	{
 		"critic_rating": "82",
-		"release_date": "Oct  8, 2019",
-		"title": "\n                            Yooka-Laylee and the Impossible Lair\n                                                    ",
-		"user_rating": "7.1"
+		"developer": "\n                    Playtonic Games                ",
+		"genres": [
+			"Action",
+			"Platformer",
+			"2D"
+		],
+		"name": "Yooka-Laylee and the Impossible Lair",
+		"publisher": "\n                                                        Team 17\n                                                    ",
+		"release_data": "Oct  8, 2019",
+		"users_rating": "7.1"
 	},
 	{
 		"critic_rating": "82",
-		"release_date": "Jul 10, 2019",
-		"title": "\n                            Sairento VR\n                                                    ",
-		"user_rating": "4.8"
+		"developer": "\n                    SeithCG                ",
+		"genres": [
+			"Action Adventure",
+			"General"
+		],
+		"name": "Ghost of a Tale",
+		"publisher": "\n                                                        SeithCG\n                                                    ",
+		"release_data": "Mar 12, 2019",
+		"users_rating": "7.1"
 	},
 	{
 		"critic_rating": "82",
-		"release_date": "Apr 23, 2019",
-		"title": "\n                            Mortal Kombat 11\n                                                    ",
-		"user_rating": "3.3"
+		"developer": "\n                    Mixed Realms Pte Ltd                ",
+		"genres": [
+			"Action",
+			"Shooter",
+			"Light Gun"
+		],
+		"name": "Sairento VR",
+		"publisher": "\n                                                        Mixed Realms Pte Ltd\n                                                    ",
+		"release_data": "Jul 10, 2019",
+		"users_rating": "5.1"
 	},
 	{
 		"critic_rating": "82",
-		"release_date": "Aug 27, 2019",
-		"title": "\n                            Control\n                                                    ",
-		"user_rating": "7.3"
+		"developer": "\n                    NetherRealm Studios                ",
+		"genres": [
+			"Action",
+			"Fighting",
+			"2D"
+		],
+		"name": "Mortal Kombat 11",
+		"publisher": "\n                                                        Warner Bros. Interactive Entertainment\n                                                    ",
+		"release_data": "Apr 23, 2019",
+		"users_rating": "3.3"
 	},
 	{
 		"critic_rating": "82",
-		"release_date": "Sep 10, 2019",
-		"title": "\n                            eFootball PES 2020\n                                                    ",
-		"user_rating": "8.1"
+		"developer": "\n                    Remedy Entertainment                ",
+		"genres": [
+			"Action Adventure",
+			"General"
+		],
+		"name": "Control",
+		"publisher": "\n                                                        505 Games\n                                                    ",
+		"release_data": "Aug 27, 2019",
+		"users_rating": "7.3"
 	},
 	{
 		"critic_rating": "82",
-		"release_date": "Nov 26, 2019",
-		"title": "\n                            GRIS\n                                                    ",
-		"user_rating": "7.5"
+		"developer": "\n                    Konami                ",
+		"genres": [
+			"Sports",
+			"Team",
+			"Soccer",
+			"Sim"
+		],
+		"name": "eFootball PES 2020",
+		"publisher": "\n                                                        Konami\n                                                    ",
+		"release_data": "Sep 10, 2019",
+		"users_rating": "8.0"
 	},
 	{
 		"critic_rating": "82",
-		"release_date": "Nov  8, 2019",
-		"title": "\n                            Death Stranding\n                                                    ",
-		"user_rating": "6.7"
+		"developer": "\n                    Nomada Studio                ",
+		"genres": [
+			"Action",
+			"Platformer",
+			"2D"
+		],
+		"name": "GRIS",
+		"publisher": "\n                                                        Devolver Digital\n                                                    ",
+		"release_data": "Nov 26, 2019",
+		"users_rating": "7.2"
 	},
 	{
 		"critic_rating": "82",
-		"release_date": "Sep 10, 2019",
-		"title": "\n                            The Walking Dead: The Telltale Definitive Series\n                                                    ",
-		"user_rating": "6.6"
+		"developer": "\n                    Kojima Productions                ",
+		"genres": [
+			"Action",
+			"General"
+		],
+		"name": "Death Stranding",
+		"publisher": "\n                                                        Kojima Productions\n                                                    ",
+		"release_data": "Nov  8, 2019",
+		"users_rating": "7.3"
 	},
 	{
 		"critic_rating": "82",
-		"release_date": "Mar 19, 2019",
-		"title": "\n                            The Messenger\n                                                    ",
-		"user_rating": "7.7"
+		"developer": "\n                    Telltale Games, Skybound Games                ",
+		"genres": [
+			"Miscellaneous",
+			"Compilation"
+		],
+		"name": "The Walking Dead: The Telltale Definitive Series",
+		"publisher": "\n                                                        Skybound Games\n                                                    ",
+		"release_data": "Sep 10, 2019",
+		"users_rating": "6.5"
 	},
 	{
 		"critic_rating": "82",
-		"release_date": "Oct 22, 2019",
-		"title": "\n                            The Legend of Heroes: Trails of Cold Steel III\n                                                    ",
-		"user_rating": "8.6"
+		"developer": "\n                    Sabotage Studio                ",
+		"genres": [
+			"Action",
+			"Platformer",
+			"2D"
+		],
+		"name": "The Messenger",
+		"publisher": "\n                                                        Sabotage Studio\n                                                    ",
+		"release_data": "Mar 19, 2019",
+		"users_rating": "7.8"
 	},
 	{
 		"critic_rating": "82",
-		"release_date": "Dec  3, 2019",
-		"title": "\n                            Life is Strange 2: Episode 5 - Wolves\n                                                    ",
-		"user_rating": "6.4"
+		"developer": "\n                    Falcom                ",
+		"genres": [
+			"Role-Playing",
+			"Japanese-Style"
+		],
+		"name": "The Legend of Heroes: Trails of Cold Steel III",
+		"publisher": "\n                                                        NIS America\n                                                    ",
+		"release_data": "Oct 22, 2019",
+		"users_rating": "8.7"
+	},
+	{
+		"critic_rating": "82",
+		"developer": "\n                    DONTNOD Entertainment                ",
+		"genres": [
+			"Action Adventure",
+			"General"
+		],
+		"name": "Life is Strange 2: Episode 5 - Wolves",
+		"publisher": "\n                                                        Square Enix\n                                                    ",
+		"release_data": "Dec  3, 2019",
+		"users_rating": "6.4"
 	},
 	{
 		"critic_rating": "81",
-		"release_date": "May 14, 2019",
-		"title": "\n                            A Plague Tale: Innocence\n                                                    ",
-		"user_rating": "8.6"
+		"developer": "\n                    Asobo Studio                ",
+		"genres": [
+			"Action Adventure",
+			"General"
+		],
+		"name": "A Plague Tale: Innocence",
+		"publisher": "\n                                                        Focus Home Interactive\n                                                    ",
+		"release_data": "May 14, 2019",
+		"users_rating": "8.6"
 	},
 	{
 		"critic_rating": "81",
-		"release_date": "Jun 25, 2019",
-		"title": "\n                            Samurai Shodown\n                                                    ",
-		"user_rating": "7.8"
+		"developer": "\n                    Joysteak Studios                ",
+		"genres": [
+			"Action",
+			"Platformer",
+			"2D"
+		],
+		"name": "Songbird Symphony",
+		"publisher": "\n                                                        PQube\n                                                    ",
+		"release_data": "Jul 25, 2019",
+		"users_rating": "5.2"
 	},
 	{
 		"critic_rating": "81",
-		"release_date": "Sep  3, 2019",
-		"title": "\n                            Catherine: Full Body\n                                                    ",
-		"user_rating": "7.7"
+		"developer": "\n                    Milkbag Games                ",
+		"genres": [
+			"Sports",
+			"Individual",
+			"Skate / Skateboard"
+		],
+		"name": "FutureGrind",
+		"publisher": "\n                                                        Milkbag Games\n                                                    ",
+		"release_data": "Jan 22, 2019",
+		"users_rating": "tbd"
 	},
 	{
 		"critic_rating": "81",
-		"release_date": "Jan 11, 2019",
-		"title": "\n                            Tales of Vesperia: Definitive Edition\n                                                    ",
-		"user_rating": "7.3"
+		"developer": "\n                    SNK Corporation                ",
+		"genres": [
+			"Action",
+			"Fighting",
+			"2D"
+		],
+		"name": "Samurai Shodown",
+		"publisher": "\n                                                        SNK Corporation\n                                                    ",
+		"release_data": "Jun 25, 2019",
+		"users_rating": "7.8"
 	},
 	{
 		"critic_rating": "81",
-		"release_date": "Oct 15, 2019",
-		"title": "\n                            Baldur's Gate and Baldur's Gate II: Enhanced Editions\n                                                    ",
-		"user_rating": "6.3"
+		"developer": "\n                    FitXR                ",
+		"genres": [
+			"Sports",
+			"Individual",
+			"Combat",
+			"Boxing / Martial Arts"
+		],
+		"name": "BOXVR",
+		"publisher": "\n                                                        FitXR\n                                                    ",
+		"release_data": "Apr 30, 2019",
+		"users_rating": "5.8"
 	},
 	{
 		"critic_rating": "81",
-		"release_date": "Sep 24, 2019",
-		"title": "\n                            L.A. Noire: The VR Case Files\n                                                    ",
-		"user_rating": "7.1"
+		"developer": "\n                    Atlus                ",
+		"genres": [
+			"Action Adventure",
+			"Survival"
+		],
+		"name": "Catherine: Full Body",
+		"publisher": "\n                                                        Atlus\n                                                    ",
+		"release_data": "Sep  3, 2019",
+		"users_rating": "7.7"
+	},
+	{
+		"critic_rating": "81",
+		"developer": "\n                    Bandai Namco Games, QLOC                ",
+		"genres": [
+			"Role-Playing",
+			"Action RPG"
+		],
+		"name": "Tales of Vesperia: Definitive Edition",
+		"publisher": "\n                                                        Bandai Namco Games\n                                                    ",
+		"release_data": "Jan 11, 2019",
+		"users_rating": "7.3"
+	},
+	{
+		"critic_rating": "81",
+		"developer": "\n                    Beamdog                ",
+		"genres": [
+			"Miscellaneous",
+			"Compilation"
+		],
+		"name": "Baldur's Gate and Baldur's Gate II: Enhanced Editions",
+		"publisher": "\n                                                        Skybound Games\n                                                    ",
+		"release_data": "Oct 15, 2019",
+		"users_rating": "5.7"
+	},
+	{
+		"critic_rating": "81",
+		"developer": "\n                    Rockstar Games                ",
+		"genres": [
+			"Adventure",
+			"3D",
+			"First-Person"
+		],
+		"name": "L.A. Noire: The VR Case Files",
+		"publisher": "\n                                                        Rockstar Games\n                                                    ",
+		"release_data": "Sep 24, 2019",
+		"users_rating": "7.1"
 	},
 	{
 		"critic_rating": "80",
-		"release_date": "Sep  3, 2019",
-		"title": "\n                            Final Fantasy VIII Remastered\n                                                    ",
-		"user_rating": "6.6"
+		"developer": "\n                    Square Enix                ",
+		"genres": [
+			"Role-Playing",
+			"Japanese-Style"
+		],
+		"name": "Final Fantasy VIII Remastered",
+		"publisher": "\n                                                        Square Enix\n                                                    ",
+		"release_data": "Sep  3, 2019",
+		"users_rating": "6.7"
 	},
 	{
 		"critic_rating": "80",
-		"release_date": "May 28, 2019",
-		"title": "\n                            Five Nights at Freddy's VR: Help Wanted\n                                                    ",
-		"user_rating": "7.8"
+		"developer": "\n                    Steel Wool Games, Inc.                ",
+		"genres": [
+			"Action Adventure",
+			"Survival"
+		],
+		"name": "Five Nights at Freddy's VR: Help Wanted",
+		"publisher": "\n                                                        Scott Cawthon\n                                                    ",
+		"release_data": "May 28, 2019",
+		"users_rating": "7.8"
 	},
 	{
 		"critic_rating": "80",
-		"release_date": "May 28, 2019",
-		"title": "\n                            Blood & Truth\n                                                    ",
-		"user_rating": "8.0"
+		"developer": "\n                    SCEE London Studio                ",
+		"genres": [
+			"Action",
+			"Shooter",
+			"Light Gun"
+		],
+		"name": "Blood & Truth",
+		"publisher": "\n                                                        Sony Interactive Entertainment\n                                                    ",
+		"release_data": "May 28, 2019",
+		"users_rating": "7.9"
 	},
 	{
 		"critic_rating": "80",
-		"release_date": "Sep  3, 2019",
-		"title": "\n                            Torchlight II\n                                                    ",
-		"user_rating": "4.2"
+		"developer": "\n                    Panic Button                ",
+		"genres": [
+			"Role-Playing",
+			"Action RPG"
+		],
+		"name": "Torchlight II",
+		"publisher": "\n                                                        Perfect World Entertainment\n                                                    ",
+		"release_data": "Sep  3, 2019",
+		"users_rating": "4.2"
 	},
 	{
 		"critic_rating": "80",
-		"release_date": "Oct 25, 2019",
-		"title": "\n                            Call of Duty: Modern Warfare\n                                                    ",
-		"user_rating": "3.2"
+		"developer": "\n                    Infinity Ward                ",
+		"genres": [
+			"Action",
+			"Shooter",
+			"First-Person",
+			"Arcade"
+		],
+		"name": "Call of Duty: Modern Warfare",
+		"publisher": "\n                                                        Activision\n                                                    ",
+		"release_data": "Oct 25, 2019",
+		"users_rating": "3.2"
 	},
 	{
 		"critic_rating": "80",
-		"release_date": "Apr 16, 2019",
-		"title": "\n                            Ghost Giant\n                                                    ",
-		"user_rating": "7.1"
+		"developer": "\n                    Zoink!                ",
+		"genres": [
+			"Adventure",
+			"General"
+		],
+		"name": "Ghost Giant",
+		"publisher": "\n                                                        Zoink!\n                                                    ",
+		"release_data": "Apr 16, 2019",
+		"users_rating": "7.1"
 	},
 	{
 		"critic_rating": "80",
-		"release_date": "Apr  9, 2019",
-		"title": "\n                            Phoenix Wright: Ace Attorney Trilogy\n                                                    ",
-		"user_rating": "7.3"
+		"developer": "\n                    Capcom                ",
+		"genres": [
+			"Miscellaneous",
+			"Compilation"
+		],
+		"name": "Phoenix Wright: Ace Attorney Trilogy",
+		"publisher": "\n                                                        Capcom\n                                                    ",
+		"release_data": "Apr  9, 2019",
+		"users_rating": "7.3"
 	},
 	{
 		"critic_rating": "80",
-		"release_date": "Feb 15, 2019",
-		"title": "\n                            Metro Exodus\n                                                    ",
-		"user_rating": "6.9"
+		"developer": "\n                    Steel Mantis                ",
+		"genres": [
+			"Action",
+			"Platformer",
+			"2D"
+		],
+		"name": "Valfaris",
+		"publisher": "\n                                                        Big Sugar Films\n                                                    ",
+		"release_data": "Nov  5, 2019",
+		"users_rating": "5.8"
 	},
 	{
 		"critic_rating": "80",
-		"release_date": "Jan 18, 2019",
-		"title": "\n                            Ace Combat 7: Skies Unknown\n                                                    ",
-		"user_rating": "8.2"
+		"developer": "\n                    4A Games                ",
+		"genres": [
+			"Action",
+			"Shooter",
+			"First-Person",
+			"Arcade"
+		],
+		"name": "Metro Exodus",
+		"publisher": "\n                                                        Deep Silver\n                                                    ",
+		"release_data": "Feb 15, 2019",
+		"users_rating": "6.9"
 	},
 	{
 		"critic_rating": "80",
-		"release_date": "Oct  8, 2019",
-		"title": "\n                            Trine 4: The Nightmare Prince\n                                                    ",
-		"user_rating": "7.0"
+		"developer": "\n                    Project Aces                 ",
+		"genres": [
+			"Simulation",
+			"Flight",
+			"Combat"
+		],
+		"name": "Ace Combat 7: Skies Unknown",
+		"publisher": "\n                                                        Bandai Namco Games\n                                                    ",
+		"release_data": "Jan 18, 2019",
+		"users_rating": "8.2"
 	},
 	{
 		"critic_rating": "80",
-		"release_date": "May 21, 2019",
-		"title": "\n                            Dauntless\n                                                    ",
-		"user_rating": "3.4"
+		"developer": "\n                    Frozenbyte, Inc.                ",
+		"genres": [
+			"Action",
+			"Platformer",
+			"2D"
+		],
+		"name": "Trine 4: The Nightmare Prince",
+		"publisher": "\n                                                        Maximum Games\n                                                    ",
+		"release_data": "Oct  8, 2019",
+		"users_rating": "6.9"
 	},
 	{
 		"critic_rating": "80",
-		"release_date": "Mar 26, 2019",
-		"title": "\n                            The Legend of Heroes: Trails of Cold Steel\n                                                    ",
-		"user_rating": "8.6"
+		"developer": "\n                    Compile Heart                ",
+		"genres": [
+			"Miscellaneous",
+			"Compilation"
+		],
+		"name": "Date-A-Live: Rio Reincarnation",
+		"publisher": "\n                                                        Idea Factory\n                                                    ",
+		"release_data": "Jul 23, 2019",
+		"users_rating": "tbd"
 	},
 	{
 		"critic_rating": "80",
-		"release_date": "Dec 17, 2019",
-		"title": "\n                            Untitled Goose Game\n                                                    ",
-		"user_rating": "6.3"
+		"developer": "\n                    Phoenix Labs                ",
+		"genres": [
+			"Role-Playing",
+			"Action RPG"
+		],
+		"name": "Dauntless",
+		"publisher": "\n                                                        Phoenix Labs\n                                                    ",
+		"release_data": "May 21, 2019",
+		"users_rating": "3.4"
 	},
 	{
 		"critic_rating": "80",
-		"release_date": "Dec  3, 2019",
-		"title": "\n                            Arise: A Simple Story\n                                                    ",
-		"user_rating": "7.7"
+		"developer": "\n                    Falcom                ",
+		"genres": [
+			"Role-Playing",
+			"Japanese-Style"
+		],
+		"name": "The Legend of Heroes: Trails of Cold Steel",
+		"publisher": "\n                                                        XSEED Games\n                                                    ",
+		"release_data": "Mar 26, 2019",
+		"users_rating": "8.6"
 	},
 	{
 		"critic_rating": "80",
-		"release_date": "Sep 17, 2019",
-		"title": "\n                            AI: The Somnium Files\n                                                    ",
-		"user_rating": "7.7"
+		"developer": "\n                    House House                ",
+		"genres": [
+			"Simulation",
+			"General"
+		],
+		"name": "Untitled Goose Game",
+		"publisher": "\n                                                        House House\n                                                    ",
+		"release_data": "Dec 17, 2019",
+		"users_rating": "6.5"
 	},
 	{
 		"critic_rating": "80",
-		"release_date": "Nov 15, 2019",
-		"title": "\n                            Star Wars Jedi: Fallen Order\n                                                    ",
-		"user_rating": "7.9"
+		"developer": "\n                    Piccolo                ",
+		"genres": [
+			"Action",
+			"General"
+		],
+		"name": "Arise: A Simple Story",
+		"publisher": "\n                                                        Techland\n                                                    ",
+		"release_data": "Dec  3, 2019",
+		"users_rating": "7.7"
 	},
 	{
 		"critic_rating": "80",
-		"release_date": "Nov  5, 2019",
-		"title": "\n                            Valfaris\n                                                    ",
-		"user_rating": "5.6"
+		"developer": "\n                    Megagon Industries                ",
+		"genres": [
+			"Sports",
+			"Individual",
+			"Biking"
+		],
+		"name": "Lonely Mountains: Downhill",
+		"publisher": "\n                                                        Image & Form\n                                                    ",
+		"release_data": "Oct 23, 2019",
+		"users_rating": "4.5"
 	},
 	{
 		"critic_rating": "80",
-		"release_date": "May 14, 2019",
-		"title": "\n                            Darkwood\n                                                    ",
-		"user_rating": "7.5"
+		"developer": "\n                    Spike Chunsoft                ",
+		"genres": [
+			"Action Adventure",
+			"General"
+		],
+		"name": "AI: The Somnium Files",
+		"publisher": "\n                                                        Spike Chunsoft\n                                                    ",
+		"release_data": "Sep 17, 2019",
+		"users_rating": "8.9"
 	},
 	{
 		"critic_rating": "80",
-		"release_date": "Dec 10, 2019",
-		"title": "\n                            AVICII Invector\n                                                    ",
-		"user_rating": "5.9"
+		"developer": "\n                    Acid Wizard Studio                ",
+		"genres": [
+			"Action Adventure",
+			"Survival"
+		],
+		"name": "Darkwood",
+		"publisher": "\n                                                        Crunching Koalas\n                                                    ",
+		"release_data": "May 14, 2019",
+		"users_rating": "7.5"
 	},
 	{
 		"critic_rating": "80",
-		"release_date": "Jun 21, 2019",
-		"title": "\n                            Judgment\n                                                    ",
-		"user_rating": "8.3"
+		"developer": "\n                    Wired Productions                ",
+		"genres": [
+			"Action",
+			"Rhythm",
+			"Music"
+		],
+		"name": "AVICII Invector",
+		"publisher": "\n                                                        Wired Productions\n                                                    ",
+		"release_data": "Dec 10, 2019",
+		"users_rating": "5.8"
+	},
+	{
+		"critic_rating": "80",
+		"developer": "\n                    Ryu ga Gotoku Studios                ",
+		"genres": [
+			"Action Adventure",
+			"General"
+		],
+		"name": "Judgment",
+		"publisher": "\n                                                        Sega\n                                                    ",
+		"release_data": "Jun 21, 2019",
+		"users_rating": "8.4"
 	},
 	{
 		"critic_rating": "79",
-		"release_date": "Oct 15, 2019",
-		"title": "\n                            Children of Morta\n                                                    ",
-		"user_rating": "7.8"
+		"developer": "\n                    Dead Mage Studio, Dead Mage                ",
+		"genres": [
+			"Role-Playing",
+			"Adventure",
+			"General",
+			"Action RPG"
+		],
+		"name": "Children of Morta",
+		"publisher": "\n                                                        Dead Mage Studio\n                                                    ",
+		"release_data": "Oct 15, 2019",
+		"users_rating": "7.9"
 	},
 	{
 		"critic_rating": "79",
-		"release_date": "Aug 27, 2019",
-		"title": "\n                            Knights and Bikes\n                                                    ",
-		"user_rating": "7.8"
+		"developer": "\n                    Respawn Entertainment                ",
+		"genres": [
+			"Action",
+			"General"
+		],
+		"name": "Star Wars Jedi: Fallen Order",
+		"publisher": "\n                                                        Electronic Arts\n                                                    ",
+		"release_data": "Nov 15, 2019",
+		"users_rating": "7.8"
 	},
 	{
 		"critic_rating": "79",
-		"release_date": "Aug  6, 2019",
-		"title": "\n                            Gravity Ghost: Deluxe Edition\n                                                    ",
-		"user_rating": "2.7"
+		"developer": "\n                    Dumb and Fat Games                ",
+		"genres": [
+			"Action",
+			"Platformer",
+			"2D"
+		],
+		"name": "Wandersong",
+		"publisher": "\n                                                        Dumb and Fat Games\n                                                    ",
+		"release_data": "Jan 22, 2019",
+		"users_rating": "6.0"
 	},
 	{
 		"critic_rating": "79",
-		"release_date": "Feb 26, 2019",
-		"title": "\n                            Trials Rising\n                                                    ",
-		"user_rating": "6.5"
+		"developer": "\n                    Foam Sword                ",
+		"genres": [
+			"Action Adventure",
+			"General"
+		],
+		"name": "Knights and Bikes",
+		"publisher": "\n                                                        Double Fine Productions\n                                                    ",
+		"release_data": "Aug 27, 2019",
+		"users_rating": "7.8"
 	},
 	{
 		"critic_rating": "79",
-		"release_date": "Sep 24, 2019",
-		"title": "\n                            FIFA 20\n                                                    ",
-		"user_rating": "1.1"
+		"developer": "\n                    Ivy Games LLC                ",
+		"genres": [
+			"Action",
+			"General"
+		],
+		"name": "Gravity Ghost: Deluxe Edition",
+		"publisher": "\n                                                        Ivy Games LLC\n                                                    ",
+		"release_data": "Aug  6, 2019",
+		"users_rating": "2.7"
 	},
 	{
 		"critic_rating": "79",
-		"release_date": "Sep 10, 2019",
-		"title": "\n                            WRC 8 FIA World Rally Championship\n                                                    ",
-		"user_rating": "5.8"
+		"developer": "\n                    Fast Travel Games                ",
+		"genres": [
+			"Puzzle",
+			"Action"
+		],
+		"name": "The Curious Tale of the Stolen Pets",
+		"publisher": "\n                                                        Fast Travel Games\n                                                    ",
+		"release_data": "Nov 19, 2019",
+		"users_rating": "7.5"
+	},
+	{
+		"critic_rating": "79",
+		"developer": "\n                    RedLynx                ",
+		"genres": [
+			"Racing",
+			"Arcade",
+			"Automobile"
+		],
+		"name": "Trials Rising",
+		"publisher": "\n                                                        Ubisoft\n                                                    ",
+		"release_data": "Feb 26, 2019",
+		"users_rating": "6.5"
+	},
+	{
+		"critic_rating": "79",
+		"developer": "\n                    Electronic Arts                ",
+		"genres": [
+			"Sports",
+			"Team",
+			"Soccer",
+			"Sim"
+		],
+		"name": "FIFA 20",
+		"publisher": "\n                                                        Electronic Arts\n                                                    ",
+		"release_data": "Sep 24, 2019",
+		"users_rating": "1.1"
+	},
+	{
+		"critic_rating": "79",
+		"developer": "\n                    Kemco                ",
+		"genres": [
+			"Adventure",
+			"Visual Novel"
+		],
+		"name": "Raging Loop",
+		"publisher": "\n                                                        PQube\n                                                    ",
+		"release_data": "Oct 22, 2019",
+		"users_rating": "tbd"
+	},
+	{
+		"critic_rating": "79",
+		"developer": "\n                    Kylotonn                ",
+		"genres": [
+			"Racing",
+			"Arcade",
+			"Automobile"
+		],
+		"name": "WRC 8 FIA World Rally Championship",
+		"publisher": "\n                                                        Bigben Interactive\n                                                    ",
+		"release_data": "Sep 10, 2019",
+		"users_rating": "5.7"
 	},
 	{
 		"critic_rating": "78",
-		"release_date": "Sep 13, 2019",
-		"title": "\n                            Borderlands 3\n                                                    ",
-		"user_rating": "5.7"
+		"developer": "\n                    Gearbox Software                ",
+		"genres": [
+			"Action",
+			"Shooter",
+			"First-Person",
+			"Arcade"
+		],
+		"name": "Borderlands 3",
+		"publisher": "\n                                                        2K Games\n                                                    ",
+		"release_data": "Sep 13, 2019",
+		"users_rating": "5.6"
 	},
 	{
 		"critic_rating": "78",
-		"release_date": "Sep  5, 2019",
-		"title": "\n                            River City Girls\n                                                    ",
-		"user_rating": "6.3"
+		"developer": "\n                    WayForward                ",
+		"genres": [
+			"Action",
+			"Beat-'Em-Up",
+			"2D"
+		],
+		"name": "River City Girls",
+		"publisher": "\n                                                        Arc System Works\n                                                    ",
+		"release_data": "Sep  5, 2019",
+		"users_rating": "6.2"
 	},
 	{
 		"critic_rating": "78",
-		"release_date": "Sep 10, 2019",
-		"title": "\n                            Blasphemous\n                                                    ",
-		"user_rating": "7.7"
+		"developer": "\n                    The Game Kitchen                ",
+		"genres": [
+			"Action Adventure",
+			"Open-World"
+		],
+		"name": "Blasphemous",
+		"publisher": "\n                                                        Team 17\n                                                    ",
+		"release_data": "Sep 10, 2019",
+		"users_rating": "7.7"
 	},
 	{
 		"critic_rating": "78",
-		"release_date": "May 21, 2019",
-		"title": "\n                            Atelier Lulua: The Scion of Arland\n                                                    ",
-		"user_rating": "6.4"
+		"developer": "\n                    Koei Tecmo Games                ",
+		"genres": [
+			"Role-Playing",
+			"Japanese-Style"
+		],
+		"name": "Atelier Lulua: The Scion of Arland",
+		"publisher": "\n                                                        Koei Tecmo Games\n                                                    ",
+		"release_data": "May 21, 2019",
+		"users_rating": "6.4"
 	},
 	{
 		"critic_rating": "78",
-		"release_date": "May  7, 2019",
-		"title": "\n                            Shakedown Hawaii\n                                                    ",
-		"user_rating": "5.0"
+		"developer": "\n                    The Gentlebros                ",
+		"genres": [
+			"Action",
+			"Role-Playing",
+			"General",
+			"Action RPG"
+		],
+		"name": "Cat Quest II",
+		"publisher": "\n                                                        The Gentlebros\n                                                    ",
+		"release_data": "Oct 24, 2019",
+		"users_rating": "6.5"
 	},
 	{
 		"critic_rating": "78",
-		"release_date": "Jan 15, 2019",
-		"title": "\n                            The Walking Dead: The Telltale Series - The Final Season Episode 3: Broken Toys\n                                                    ",
-		"user_rating": "7.0"
+		"developer": "\n                    Vblank Entertainment Inc.                ",
+		"genres": [
+			"Action Adventure",
+			"Open-World"
+		],
+		"name": "Shakedown Hawaii",
+		"publisher": "\n                                                        Vblank Entertainment Inc.\n                                                    ",
+		"release_data": "May  7, 2019",
+		"users_rating": "5.0"
 	},
 	{
 		"critic_rating": "78",
-		"release_date": "Sep  6, 2019",
-		"title": "\n                            NBA 2K20\n                                                    ",
-		"user_rating": "0.8"
+		"developer": "\n                    Telltale Games, Skybound Games                ",
+		"genres": [
+			"Adventure",
+			"Point-and-Click"
+		],
+		"name": "The Walking Dead: The Telltale Series - The Final Season Episode 3: Broken Toys",
+		"publisher": "\n                                                        Telltale Games\n                                                    ",
+		"release_data": "Jan 15, 2019",
+		"users_rating": "7.0"
 	},
 	{
 		"critic_rating": "78",
-		"release_date": "Jun  4, 2019",
-		"title": "\n                            The Legend of Heroes: Trails of Cold Steel II\n                                                    ",
-		"user_rating": "8.3"
+		"developer": "\n                    Visual Concepts                ",
+		"genres": [
+			"Sports",
+			"Team",
+			"Basketball",
+			"Sim"
+		],
+		"name": "NBA 2K20",
+		"publisher": "\n                                                        2K Games\n                                                    ",
+		"release_data": "Sep  6, 2019",
+		"users_rating": "1.0"
 	},
 	{
 		"critic_rating": "78",
-		"release_date": "Aug  6, 2019",
-		"title": "\n                            Age of Wonders: Planetfall\n                                                    ",
-		"user_rating": "6.4"
+		"developer": "\n                    Ryu ga Gotoku Studios                ",
+		"genres": [
+			"Action Adventure",
+			"Open-World"
+		],
+		"name": "Yakuza 4 Remastered",
+		"publisher": "\n                                                        Sega\n                                                    ",
+		"release_data": "Oct 29, 2019",
+		"users_rating": "7.3"
+	},
+	{
+		"critic_rating": "78",
+		"developer": "\n                    Falcom                ",
+		"genres": [
+			"Role-Playing",
+			"Japanese-Style"
+		],
+		"name": "The Legend of Heroes: Trails of Cold Steel II",
+		"publisher": "\n                                                        XSEED Games\n                                                    ",
+		"release_data": "Jun  4, 2019",
+		"users_rating": "8.3"
+	},
+	{
+		"critic_rating": "78",
+		"developer": "\n                    PixelShard                ",
+		"genres": [
+			"Action",
+			"Platformer",
+			"2D"
+		],
+		"name": "Door Kickers: Action Squad",
+		"publisher": "\n                                                        KillHouse Games\n                                                    ",
+		"release_data": "Oct 24, 2019",
+		"users_rating": "7.3"
+	},
+	{
+		"critic_rating": "78",
+		"developer": "\n                    Twice Circled                ",
+		"genres": [
+			"Strategy",
+			"Management",
+			"Business / Tycoon"
+		],
+		"name": "Megaquarium",
+		"publisher": "\n                                                        Auroch Digital\n                                                    ",
+		"release_data": "Oct 18, 2019",
+		"users_rating": "0.8"
+	},
+	{
+		"critic_rating": "78",
+		"developer": "\n                    Triumph Studios                ",
+		"genres": [
+			"Strategy",
+			"Turn-Based",
+			"General"
+		],
+		"name": "Age of Wonders: Planetfall",
+		"publisher": "\n                                                        Paradox Interactive\n                                                    ",
+		"release_data": "Aug  6, 2019",
+		"users_rating": "6.5"
+	},
+	{
+		"critic_rating": "78",
+		"developer": "\n                    Redact Games                ",
+		"genres": [
+			"Adventure",
+			"3D",
+			"First-Person"
+		],
+		"name": "Sagebrush",
+		"publisher": "\n                                                        Redact Games\n                                                    ",
+		"release_data": "Aug  6, 2019",
+		"users_rating": "tbd"
+	},
+	{
+		"critic_rating": "78",
+		"developer": "\n                    Artifex Mundi                ",
+		"genres": [
+			"Adventure",
+			"General"
+		],
+		"name": "Irony Curtain: From Matryoshka with Love",
+		"publisher": "\n                                                        Artifex Mundi\n                                                    ",
+		"release_data": "Jun 25, 2019",
+		"users_rating": "6.2"
 	},
 	{
 		"critic_rating": "77",
-		"release_date": "Aug 22, 2019",
-		"title": "\n                            Life is Strange 2: Episode 4 - Faith\n                                                    ",
-		"user_rating": "4.9"
+		"developer": "\n                    PopCap                ",
+		"genres": [
+			"Action",
+			"Shooter",
+			"Third-Person",
+			"Tactical"
+		],
+		"name": "Plants vs. Zombies: Battle for Neighborville",
+		"publisher": "\n                                                        Electronic Arts\n                                                    ",
+		"release_data": "Oct 18, 2019",
+		"users_rating": "5.7"
 	},
 	{
 		"critic_rating": "77",
-		"release_date": "Oct  8, 2019",
-		"title": "\n                            Indivisible\n                                                    ",
-		"user_rating": "6.8"
+		"developer": "\n                    DONTNOD Entertainment                ",
+		"genres": [
+			"Action Adventure",
+			"General"
+		],
+		"name": "Life is Strange 2: Episode 4 - Faith",
+		"publisher": "\n                                                        Square Enix\n                                                    ",
+		"release_data": "Aug 22, 2019",
+		"users_rating": "4.9"
 	},
 	{
 		"critic_rating": "77",
-		"release_date": "May 30, 2019",
-		"title": "\n                            Super Cane Magic ZERO\n                                                    ",
-		"user_rating": "5.2"
+		"developer": "\n                    Lab Zero Games                ",
+		"genres": [
+			"Role-Playing",
+			"Action RPG"
+		],
+		"name": "Indivisible",
+		"publisher": "\n                                                        505 Games\n                                                    ",
+		"release_data": "Oct  8, 2019",
+		"users_rating": "6.8"
 	},
 	{
 		"critic_rating": "77",
-		"release_date": "Feb 26, 2019",
-		"title": "\n                            Stellaris: Console Edition\n                                                    ",
-		"user_rating": "6.6"
+		"developer": "\n                    STUDIO EVIL                ",
+		"genres": [
+			"Role-Playing",
+			"Japanese-Style"
+		],
+		"name": "Super Cane Magic ZERO",
+		"publisher": "\n                                                        IntraGames\n                                                    ",
+		"release_data": "May 30, 2019",
+		"users_rating": "5.2"
 	},
 	{
 		"critic_rating": "77",
-		"release_date": "Oct 29, 2019",
-		"title": "\n                            Disney Classic Games: Aladdin and the Lion King\n                                                    ",
-		"user_rating": "4.8"
+		"developer": "\n                    Paradox Development Studio                ",
+		"genres": [
+			"Strategy",
+			"Real-Time",
+			"General"
+		],
+		"name": "Stellaris: Console Edition",
+		"publisher": "\n                                                        Tantalus\n                                                    ",
+		"release_data": "Feb 26, 2019",
+		"users_rating": "6.7"
 	},
 	{
 		"critic_rating": "77",
-		"release_date": "Oct 18, 2019",
-		"title": "\n                            Plants vs. Zombies: Battle for Neighborville\n                                                    ",
-		"user_rating": "5.7"
+		"developer": "\n                    Digital Eclipse                ",
+		"genres": [
+			"Miscellaneous",
+			"Compilation"
+		],
+		"name": "Disney Classic Games: Aladdin and the Lion King",
+		"publisher": "\n                                                        Nighthawk Interactive\n                                                    ",
+		"release_data": "Oct 29, 2019",
+		"users_rating": "4.8"
 	},
 	{
 		"critic_rating": "77",
-		"release_date": "Sep 10, 2019",
-		"title": "\n                            NHL 20\n                                                    ",
-		"user_rating": "4.0"
+		"developer": "\n                    Electronic Arts                ",
+		"genres": [
+			"Sports",
+			"Team",
+			"Ice Hockey",
+			"Sim"
+		],
+		"name": "NHL 20",
+		"publisher": "\n                                                        Electronic Arts\n                                                    ",
+		"release_data": "Sep 10, 2019",
+		"users_rating": "3.9"
 	},
 	{
 		"critic_rating": "77",
-		"release_date": "Aug 20, 2019",
-		"title": "\n                            Remnant: From the Ashes\n                                                    ",
-		"user_rating": "7.3"
+		"developer": "\n                    Ubisoft Paris                ",
+		"genres": [
+			"Action",
+			"Rhythm",
+			"Dancing"
+		],
+		"name": "Just Dance 2020",
+		"publisher": "\n                                                        Ubisoft\n                                                    ",
+		"release_data": "Nov  5, 2019",
+		"users_rating": "6.2"
+	},
+	{
+		"critic_rating": "77",
+		"developer": "\n                    Gunfire Games                ",
+		"genres": [
+			"Action",
+			"Shooter",
+			"Third-Person",
+			"Arcade"
+		],
+		"name": "Remnant: From the Ashes",
+		"publisher": "\n                                                        Perfect World Entertainment\n                                                    ",
+		"release_data": "Aug 20, 2019",
+		"users_rating": "7.3"
 	},
 	{
 		"critic_rating": "76",
-		"release_date": "Jun  6, 2019",
-		"title": "\n                            MotoGP 19\n                                                    ",
-		"user_rating": "7.6"
+		"developer": "\n                    Milestone S.r.l                ",
+		"genres": [
+			"Racing",
+			"Simulation",
+			"Automobile"
+		],
+		"name": "MotoGP 19",
+		"publisher": "\n                                                        Milestone S.r.l\n                                                    ",
+		"release_data": "Jun  6, 2019",
+		"users_rating": "7.6"
 	},
 	{
 		"critic_rating": "76",
-		"release_date": "Feb 19, 2019",
-		"title": "\n                            Pode\n                                                    ",
-		"user_rating": "3.9"
+		"developer": "\n                    Henchman & Goon                ",
+		"genres": [
+			"Adventure",
+			"3D",
+			"Third-Person"
+		],
+		"name": "Pode",
+		"publisher": "\n                                                        Henchman & Goon\n                                                    ",
+		"release_data": "Feb 19, 2019",
+		"users_rating": "3.9"
 	},
 	{
 		"critic_rating": "76",
-		"release_date": "Sep 27, 2019",
-		"title": "\n                            Tropico 6\n                                                    ",
-		"user_rating": "7.3"
+		"developer": "\n                    Limbic Entertainment                ",
+		"genres": [
+			"Strategy",
+			"Management",
+			"Government"
+		],
+		"name": "Tropico 6",
+		"publisher": "\n                                                        Kalypso\n                                                    ",
+		"release_data": "Sep 27, 2019",
+		"users_rating": "7.0"
 	},
 	{
 		"critic_rating": "76",
-		"release_date": "Jul 11, 2019",
-		"title": "\n                            Blazing Chrome\n                                                    ",
-		"user_rating": "7.5"
+		"developer": "\n                    JoyMasher                ",
+		"genres": [
+			"Action",
+			"Platformer",
+			"2D"
+		],
+		"name": "Blazing Chrome",
+		"publisher": "\n                                                        The Arcade Crew\n                                                    ",
+		"release_data": "Jul 11, 2019",
+		"users_rating": "7.5"
 	},
 	{
 		"critic_rating": "76",
-		"release_date": "May 31, 2019",
-		"title": "\n                            Trover Saves the Universe\n                                                    ",
-		"user_rating": "8.0"
+		"developer": "\n                    Square Enix                ",
+		"genres": [
+			"Role-Playing",
+			"Japanese-Style"
+		],
+		"name": "SaGa: Scarlet Grace - Ambitions",
+		"publisher": "\n                                                        Square Enix\n                                                    ",
+		"release_data": "Dec  3, 2019",
+		"users_rating": "tbd"
 	},
 	{
 		"critic_rating": "76",
-		"release_date": "Sep 19, 2019",
-		"title": "\n                            Mutazione\n                                                    ",
-		"user_rating": "6.9"
+		"developer": "\n                    Squanch Games                ",
+		"genres": [
+			"Action",
+			"General"
+		],
+		"name": "Trover Saves the Universe",
+		"publisher": "\n                                                        Gearbox Publishing\n                                                    ",
+		"release_data": "May 31, 2019",
+		"users_rating": "8.0"
 	},
 	{
 		"critic_rating": "76",
-		"release_date": "Jul 30, 2019",
-		"title": "\n                            Madden NFL 20\n                                                    ",
-		"user_rating": "1.6"
+		"developer": "\n                    Die Gute Fabrik                ",
+		"genres": [
+			"Adventure",
+			"Point-and-Click"
+		],
+		"name": "Mutazione",
+		"publisher": "\n                                                        Die Gute Fabrik\n                                                    ",
+		"release_data": "Sep 19, 2019",
+		"users_rating": "6.9"
 	},
 	{
 		"critic_rating": "76",
-		"release_date": "Apr  3, 2019",
-		"title": "\n                            Borderlands: Game of the Year Edition\n                                                    ",
-		"user_rating": "6.1"
+		"developer": "\n                    Electronic Arts                ",
+		"genres": [
+			"Action",
+			"Sports",
+			"General",
+			"Team",
+			"Football",
+			"Sim"
+		],
+		"name": "Madden NFL 20",
+		"publisher": "\n                                                        Electronic Arts\n                                                    ",
+		"release_data": "Jul 30, 2019",
+		"users_rating": "1.6"
 	},
 	{
 		"critic_rating": "76",
-		"release_date": "Nov 11, 2019",
-		"title": "\n                            Romancing SaGa 3\n                                                    ",
-		"user_rating": "6.2"
+		"developer": "\n                    Take-Two Interactive                ",
+		"genres": [
+			"Miscellaneous",
+			"Compilation"
+		],
+		"name": "Borderlands: Game of the Year Edition",
+		"publisher": "\n                                                        2K Games\n                                                    ",
+		"release_data": "Apr  3, 2019",
+		"users_rating": "6.1"
 	},
 	{
 		"critic_rating": "76",
-		"release_date": "Dec  3, 2019",
-		"title": "\n                            SaGa: Scarlet Grace - Ambitions\n                                                    ",
-		"user_rating": "tbd"
+		"developer": "\n                    Agharta Studio                ",
+		"genres": [
+			"Strategy",
+			"General"
+		],
+		"name": "Stardust Odyssey",
+		"publisher": "\n                                                        Agharta Studio\n                                                    ",
+		"release_data": "Dec  3, 2019",
+		"users_rating": "tbd"
 	},
 	{
 		"critic_rating": "75",
-		"release_date": "Sep 24, 2019",
-		"title": "\n                            The Surge 2\n                                                    ",
-		"user_rating": "7.0"
+		"developer": "\n                    Deck 13                ",
+		"genres": [
+			"Role-Playing",
+			"Action RPG"
+		],
+		"name": "The Surge 2",
+		"publisher": "\n                                                        Focus Home Interactive\n                                                    ",
+		"release_data": "Sep 24, 2019",
+		"users_rating": "7.0"
 	},
 	{
 		"critic_rating": "75",
-		"release_date": "May 28, 2019",
-		"title": "\n                            Unruly Heroes\n                                                    ",
-		"user_rating": "6.7"
+		"developer": "\n                    Magic Design Studios                ",
+		"genres": [
+			"Action",
+			"Platformer",
+			"2D"
+		],
+		"name": "Unruly Heroes",
+		"publisher": "\n                                                        Magic Design Studios\n                                                    ",
+		"release_data": "May 28, 2019",
+		"users_rating": "6.7"
 	},
 	{
 		"critic_rating": "75",
-		"release_date": "Nov 21, 2019",
-		"title": "\n                            Deemo Reborn\n                                                    ",
-		"user_rating": "7.8"
+		"developer": "\n                    Rayark Inc.                ",
+		"genres": [
+			"Action",
+			"Rhythm",
+			"Music"
+		],
+		"name": "Deemo Reborn",
+		"publisher": "\n                                                        Sony Music Entertainment\n                                                    ",
+		"release_data": "Nov 21, 2019",
+		"users_rating": "7.8"
 	},
 	{
 		"critic_rating": "75",
-		"release_date": "May  9, 2019",
-		"title": "\n                            Life is Strange 2: Episode 3 - Wastelands\n                                                    ",
-		"user_rating": "5.3"
+		"developer": "\n                    DONTNOD Entertainment                ",
+		"genres": [
+			"Action Adventure",
+			"General"
+		],
+		"name": "Life is Strange 2: Episode 3 - Wastelands",
+		"publisher": "\n                                                        Square Enix\n                                                    ",
+		"release_data": "May  9, 2019",
+		"users_rating": "5.3"
 	},
 	{
 		"critic_rating": "75",
-		"release_date": "Jul 18, 2019",
-		"title": "\n                            Etherborn\n                                                    ",
-		"user_rating": "7.2"
+		"developer": "\n                    Altered Matter                ",
+		"genres": [
+			"Adventure",
+			"3D",
+			"First-Person"
+		],
+		"name": "Etherborn",
+		"publisher": "\n                                                        Altered Matter\n                                                    ",
+		"release_data": "Jul 18, 2019",
+		"users_rating": "7.2"
 	},
 	{
 		"critic_rating": "75",
-		"release_date": "Mar 19, 2019",
-		"title": "\n                            Fate/Extella Link\n                                                    ",
-		"user_rating": "6.5"
+		"developer": "\n                    Odd Raven Studios                ",
+		"genres": [
+			"Action",
+			"Platformer",
+			"3D"
+		],
+		"name": "Carly and the Reaperman - Escape from the Underworld",
+		"publisher": "\n                                                        Odd Raven Studios\n                                                    ",
+		"release_data": "Oct  2, 2019",
+		"users_rating": "7.1"
 	},
 	{
 		"critic_rating": "75",
-		"release_date": "Jun 11, 2019",
-		"title": "\n                            Dragon Star Varnir\n                                                    ",
-		"user_rating": "6.7"
+		"developer": "\n                    Owlchemy Labs                ",
+		"genres": [
+			"Action",
+			"Simulation",
+			"General",
+			"Virtual",
+			"Virtual Life"
+		],
+		"name": "Vacation Simulator",
+		"publisher": "\n                                                        Owlchemy Labs\n                                                    ",
+		"release_data": "Jun 18, 2019",
+		"users_rating": "3.9"
 	},
 	{
 		"critic_rating": "75",
-		"release_date": "Oct 29, 2019",
-		"title": "\n                            Atelier Ryza: Ever Darkness & the Secret Hideout\n                                                    ",
-		"user_rating": "7.9"
+		"developer": "\n                    Marvelous Inc., Marvelous First Studio                ",
+		"genres": [
+			"Action",
+			"Beat-'Em-Up",
+			"3D"
+		],
+		"name": "Fate/Extella Link",
+		"publisher": "\n                                                        XSEED Games\n                                                    ",
+		"release_data": "Mar 19, 2019",
+		"users_rating": "6.6"
 	},
 	{
 		"critic_rating": "75",
-		"release_date": "Oct  8, 2019",
-		"title": "\n                            Concrete Genie\n                                                    ",
-		"user_rating": "8.3"
+		"developer": "\n                    Compile Heart                ",
+		"genres": [
+			"Role-Playing",
+			"Action Adventure",
+			"General",
+			"Japanese-Style"
+		],
+		"name": "Dragon Star Varnir",
+		"publisher": "\n                                                        Idea Factory\n                                                    ",
+		"release_data": "Jun 11, 2019",
+		"users_rating": "6.8"
 	},
 	{
 		"critic_rating": "75",
-		"release_date": "Oct 15, 2019",
-		"title": "\n                            The Ninja Saviors: Return of the Warriors\n                                                    ",
-		"user_rating": "6.1"
+		"developer": "\n                    Pixel Opus                ",
+		"genres": [
+			"Adventure",
+			"3D",
+			"Third-Person"
+		],
+		"name": "Concrete Genie",
+		"publisher": "\n                                                        Pixel Opus\n                                                    ",
+		"release_data": "Oct  8, 2019",
+		"users_rating": "8.4"
 	},
 	{
 		"critic_rating": "75",
-		"release_date": "Apr 16, 2019",
-		"title": "\n                            My Time At Portia\n                                                    ",
-		"user_rating": "4.8"
+		"developer": "\n                    NATSUME ATARI Inc.                ",
+		"genres": [
+			"Action",
+			"Beat-'Em-Up",
+			"2D"
+		],
+		"name": "The Ninja Saviors: Return of the Warriors",
+		"publisher": "\n                                                        Taito Corporation\n                                                    ",
+		"release_data": "Oct 15, 2019",
+		"users_rating": "6.1"
 	},
 	{
 		"critic_rating": "75",
-		"release_date": "Mar 26, 2019",
-		"title": "\n                            The Walking Dead: The Telltale Series - The Final Season Episode 4: Take Us Back\n                                                    ",
-		"user_rating": "7.1"
+		"developer": "\n                    Pathea Games                ",
+		"genres": [
+			"Simulation",
+			"Virtual",
+			"Virtual Life"
+		],
+		"name": "My Time At Portia",
+		"publisher": "\n                                                        Team 17\n                                                    ",
+		"release_data": "Apr 16, 2019",
+		"users_rating": "4.8"
 	},
 	{
 		"critic_rating": "75",
-		"release_date": "May 21, 2019",
-		"title": "\n                            Observation\n                                                    ",
-		"user_rating": "6.5"
+		"developer": "\n                    Telltale Games, Skybound Games                ",
+		"genres": [
+			"Adventure",
+			"Point-and-Click"
+		],
+		"name": "The Walking Dead: The Telltale Series - The Final Season Episode 4: Take Us Back",
+		"publisher": "\n                                                        Telltale Games\n                                                    ",
+		"release_data": "Mar 26, 2019",
+		"users_rating": "7.1"
 	},
 	{
 		"critic_rating": "75",
-		"release_date": "Jul  5, 2019",
-		"title": "\n                            Attack on Titan 2: Final Battle\n                                                    ",
-		"user_rating": "5.1"
+		"developer": "\n                    No Code                ",
+		"genres": [
+			"Adventure",
+			"General"
+		],
+		"name": "Observation",
+		"publisher": "\n                                                        Devolver Digital\n                                                    ",
+		"release_data": "May 21, 2019",
+		"users_rating": "6.5"
+	},
+	{
+		"critic_rating": "75",
+		"developer": "\n                    Omega Force                ",
+		"genres": [
+			"Action",
+			"General"
+		],
+		"name": "Attack on Titan 2: Final Battle",
+		"publisher": "\n                                                        Koei Tecmo Games\n                                                    ",
+		"release_data": "Jul  5, 2019",
+		"users_rating": "5.1"
 	},
 	{
 		"critic_rating": "74",
-		"release_date": "May 21, 2019",
-		"title": "\n                            Everybody's Golf VR\n                                                    ",
-		"user_rating": "7.8"
+		"developer": "\n                    Square Enix                ",
+		"genres": [
+			"Role-Playing",
+			"Japanese-Style"
+		],
+		"name": "Romancing SaGa 3",
+		"publisher": "\n                                                        Square Enix\n                                                    ",
+		"release_data": "Nov 11, 2019",
+		"users_rating": "6.2"
 	},
 	{
 		"critic_rating": "74",
-		"release_date": "May 16, 2019",
-		"title": "\n                            Castlevania Anniversary Collection\n                                                    ",
-		"user_rating": "4.7"
+		"developer": "\n                    Clap Hanz                ",
+		"genres": [
+			"Sports",
+			"Individual",
+			"Golf",
+			"Arcade"
+		],
+		"name": "Everybody's Golf VR",
+		"publisher": "\n                                                        Sony Interactive Entertainment\n                                                    ",
+		"release_data": "May 21, 2019",
+		"users_rating": "7.8"
 	},
 	{
 		"critic_rating": "74",
-		"release_date": "Aug 20, 2019",
-		"title": "\n                            Rad\n                                                    ",
-		"user_rating": "6.6"
+		"developer": "\n                    Konami, M2                ",
+		"genres": [
+			"Miscellaneous",
+			"Compilation"
+		],
+		"name": "Castlevania Anniversary Collection",
+		"publisher": "\n                                                        Konami\n                                                    ",
+		"release_data": "May 16, 2019",
+		"users_rating": "4.7"
 	},
 	{
 		"critic_rating": "74",
-		"release_date": "Aug 13, 2019",
-		"title": "\n                            Ancestors Legacy\n                                                    ",
-		"user_rating": "6.6"
+		"developer": "\n                    Double Fine Productions                ",
+		"genres": [
+			"Adventure",
+			"Action Adventure",
+			"General"
+		],
+		"name": "Rad",
+		"publisher": "\n                                                        Bandai Namco Games\n                                                    ",
+		"release_data": "Aug 20, 2019",
+		"users_rating": "6.6"
 	},
 	{
 		"critic_rating": "74",
-		"release_date": "May 28, 2019",
-		"title": "\n                            Lapis x Labyrinth\n                                                    ",
-		"user_rating": "4.4"
+		"developer": "\n                    Gust                ",
+		"genres": [
+			"General",
+			"Role-Playing",
+			"Japanese-Style"
+		],
+		"name": "Atelier Ryza: Ever Darkness & the Secret Hideout",
+		"publisher": "\n                                                        Koei Tecmo Games\n                                                    ",
+		"release_data": "Oct 29, 2019",
+		"users_rating": "7.9"
 	},
 	{
 		"critic_rating": "74",
-		"release_date": "Jul 16, 2019",
-		"title": "\n                            198X\n                                                    ",
-		"user_rating": "5.6"
+		"developer": "\n                    Destructive Creations                ",
+		"genres": [
+			"Strategy",
+			"Real-Time",
+			"General",
+			"Command"
+		],
+		"name": "Ancestors Legacy",
+		"publisher": "\n                                                        Destructive Creations\n                                                    ",
+		"release_data": "Aug 13, 2019",
+		"users_rating": "6.6"
 	},
 	{
 		"critic_rating": "74",
-		"release_date": "Jun 11, 2019",
-		"title": "\n                            Contra Anniversary Collection\n                                                    ",
-		"user_rating": "6.0"
+		"developer": "\n                    Cattle Call                ",
+		"genres": [
+			"Role-Playing",
+			"Japanese-Style"
+		],
+		"name": "The Alliance Alive HD Remastered",
+		"publisher": "\n                                                        NIS America\n                                                    ",
+		"release_data": "Oct  8, 2019",
+		"users_rating": "4.3"
 	},
 	{
 		"critic_rating": "74",
-		"release_date": "Jun  4, 2019",
-		"title": "\n                            The Elder Scrolls Online: Elsweyr\n                                                    ",
-		"user_rating": "4.2"
+		"developer": "\n                    Nippon Ichi Software                ",
+		"genres": [
+			"Role-Playing",
+			"Action RPG"
+		],
+		"name": "Lapis x Labyrinth",
+		"publisher": "\n                                                        NIS America\n                                                    ",
+		"release_data": "May 28, 2019",
+		"users_rating": "4.4"
 	},
 	{
 		"critic_rating": "74",
-		"release_date": "Mar 19, 2019",
-		"title": "\n                            SNK 40th Anniversary Collection\n                                                    ",
-		"user_rating": "6.2"
+		"developer": "\n                    Hi-Bit Studios                ",
+		"genres": [
+			"Action",
+			"Miscellaneous",
+			"Platformer",
+			"Party / Minigame",
+			"2D"
+		],
+		"name": "198X",
+		"publisher": "\n                                                        Hi-Bit Studios\n                                                    ",
+		"release_data": "Jul 16, 2019",
+		"users_rating": "5.8"
+	},
+	{
+		"critic_rating": "74",
+		"developer": "\n                    Sega                ",
+		"genres": [
+			"Puzzle",
+			"Matching"
+		],
+		"name": "Puyo Puyo Champions",
+		"publisher": "\n                                                        Sega\n                                                    ",
+		"release_data": "May  7, 2019",
+		"users_rating": "4.0"
+	},
+	{
+		"critic_rating": "74",
+		"developer": "\n                    Konami, M2                ",
+		"genres": [
+			"Miscellaneous",
+			"Compilation"
+		],
+		"name": "Contra Anniversary Collection",
+		"publisher": "\n                                                        Konami\n                                                    ",
+		"release_data": "Jun 11, 2019",
+		"users_rating": "6.0"
+	},
+	{
+		"critic_rating": "74",
+		"developer": "\n                    ZeniMax Media                ",
+		"genres": [
+			"Role-Playing",
+			"Massively Multiplayer"
+		],
+		"name": "The Elder Scrolls Online: Elsweyr",
+		"publisher": "\n                                                        Bethesda Softworks\n                                                    ",
+		"release_data": "Jun  4, 2019",
+		"users_rating": "4.2"
+	},
+	{
+		"critic_rating": "74",
+		"developer": "\n                    SNK                ",
+		"genres": [
+			"Miscellaneous",
+			"Compilation"
+		],
+		"name": "SNK 40th Anniversary Collection",
+		"publisher": "\n                                                        NIS America\n                                                    ",
+		"release_data": "Mar 19, 2019",
+		"users_rating": "6.2"
 	},
 	{
 		"critic_rating": "73",
-		"release_date": "Jan 24, 2019",
-		"title": "\n                            Life is Strange 2: Episode 2 - Rules\n                                                    ",
-		"user_rating": "5.0"
+		"developer": "\n                    DONTNOD Entertainment                ",
+		"genres": [
+			"Action Adventure",
+			"General"
+		],
+		"name": "Life is Strange 2: Episode 2 - Rules",
+		"publisher": "\n                                                        Square Enix\n                                                    ",
+		"release_data": "Jan 24, 2019",
+		"users_rating": "5.0"
 	},
 	{
 		"critic_rating": "73",
-		"release_date": "Jan 15, 2019",
-		"title": "\n                            Onimusha: Warlords\n                                                    ",
-		"user_rating": "6.5"
+		"developer": "\n                    KissAssociates, Kiss                ",
+		"genres": [
+			"Action",
+			"Shooter",
+			"Third-Person",
+			"Arcade"
+		],
+		"name": "Project Nimbus: Code Mirai",
+		"publisher": "\n                                                        GameTomo\n                                                    ",
+		"release_data": "Sep  3, 2019",
+		"users_rating": "5.8"
 	},
 	{
 		"critic_rating": "73",
-		"release_date": "May 29, 2019",
-		"title": "\n                            Cricket 19\n                                                    ",
-		"user_rating": "8.0"
+		"developer": "\n                    Capcom, NeoBards Entertainment                ",
+		"genres": [
+			"Action Adventure",
+			"General"
+		],
+		"name": "Onimusha: Warlords",
+		"publisher": "\n                                                        Capcom\n                                                    ",
+		"release_data": "Jan 15, 2019",
+		"users_rating": "6.5"
 	},
 	{
 		"critic_rating": "73",
-		"release_date": "Apr  9, 2019",
-		"title": "\n                            Vaporum\n                                                    ",
-		"user_rating": "4.2"
+		"developer": "\n                    Big Ant Studios                ",
+		"genres": [
+			"Sports",
+			"Team",
+			"Cricket"
+		],
+		"name": "Cricket 19",
+		"publisher": "\n                                                        Big Ant Studios\n                                                    ",
+		"release_data": "May 29, 2019",
+		"users_rating": "8.0"
 	},
 	{
 		"critic_rating": "73",
-		"release_date": "Oct  1, 2019",
-		"title": "\n                            Destiny 2: Shadowkeep\n                                                    ",
-		"user_rating": "6.0"
+		"developer": "\n                    Kinmoku, Poppy Works                ",
+		"genres": [
+			"Adventure",
+			"Visual Novel"
+		],
+		"name": "One Night Stand",
+		"publisher": "\n                                                        Ratalaika Games\n                                                    ",
+		"release_data": "Oct  1, 2019",
+		"users_rating": "tbd"
 	},
 	{
 		"critic_rating": "73",
-		"release_date": "Oct 11, 2019",
-		"title": "\n                            GRID\n                                                    ",
-		"user_rating": "5.2"
+		"developer": "\n                    Codemasters                ",
+		"genres": [
+			"Racing",
+			"Simulation",
+			"Automobile"
+		],
+		"name": "GRID",
+		"publisher": "\n                                                        Codemasters\n                                                    ",
+		"release_data": "Oct 11, 2019",
+		"users_rating": "5.2"
 	},
 	{
 		"critic_rating": "73",
-		"release_date": "Dec  5, 2019",
-		"title": "\n                            Star Ocean: First Departure R\n                                                    ",
-		"user_rating": "6.7"
+		"developer": "\n                    Exordium Games                ",
+		"genres": [
+			"Miscellaneous",
+			"Compilation"
+		],
+		"name": "Bear With Me: The Complete Collection",
+		"publisher": "\n                                                        Modus Games\n                                                    ",
+		"release_data": "Jul 31, 2019",
+		"users_rating": "tbd"
 	},
 	{
 		"critic_rating": "73",
-		"release_date": "Dec  3, 2019",
-		"title": "\n                            Heroland\n                                                    ",
-		"user_rating": "tbd"
+		"developer": "\n                    Fatbot Games                ",
+		"genres": [
+			"Role-Playing",
+			"Action RPG"
+		],
+		"name": "Vaporum",
+		"publisher": "\n                                                        Fatbot Games\n                                                    ",
+		"release_data": "Apr  9, 2019",
+		"users_rating": "4.2"
+	},
+	{
+		"critic_rating": "73",
+		"developer": "\n                    Bungie                ",
+		"genres": [
+			"Action",
+			"Shooter",
+			"First-Person",
+			"Arcade"
+		],
+		"name": "Destiny 2: Shadowkeep",
+		"publisher": "\n                                                        Activision\n                                                    ",
+		"release_data": "Oct  1, 2019",
+		"users_rating": "5.8"
+	},
+	{
+		"critic_rating": "73",
+		"developer": "\n                    Square Enix, Tri-Ace                ",
+		"genres": [
+			"Role-Playing",
+			"Action RPG"
+		],
+		"name": "Star Ocean: First Departure R",
+		"publisher": "\n                                                        Square Enix\n                                                    ",
+		"release_data": "Dec  5, 2019",
+		"users_rating": "6.7"
+	},
+	{
+		"critic_rating": "73",
+		"developer": "\n                    Darkflow Software                ",
+		"genres": [
+			"Action",
+			"Shooter",
+			"First-Person",
+			"Tactical"
+		],
+		"name": "Cuisine Royale",
+		"publisher": "\n                                                        Gaijin Distribution\n                                                    ",
+		"release_data": "Dec  3, 2019",
+		"users_rating": "tbd"
+	},
+	{
+		"critic_rating": "73",
+		"developer": "\n                    FuRyu                ",
+		"genres": [
+			"Role-Playing",
+			"Japanese-Style"
+		],
+		"name": "Heroland",
+		"publisher": "\n                                                        XSEED Games\n                                                    ",
+		"release_data": "Dec  3, 2019",
+		"users_rating": "tbd"
 	},
 	{
 		"critic_rating": "72",
-		"release_date": "Feb  5, 2019",
-		"title": "\n                            Monster Energy Supercross - The Official Videogame 2\n                                                    ",
-		"user_rating": "5.8"
+		"developer": "\n                    Red Blue Games                ",
+		"genres": [
+			"Action Adventure",
+			"General"
+		],
+		"name": "Sparklite",
+		"publisher": "\n                                                        Merge Games\n                                                    ",
+		"release_data": "Nov 14, 2019",
+		"users_rating": "5.0"
 	},
 	{
 		"critic_rating": "72",
-		"release_date": "Jul 30, 2019",
-		"title": "\n                            The Blackout Club\n                                                    ",
-		"user_rating": "5.5"
+		"developer": "\n                    Milestone S.r.l                ",
+		"genres": [
+			"Racing",
+			"Arcade",
+			"Automobile"
+		],
+		"name": "Monster Energy Supercross - The Official Videogame 2",
+		"publisher": "\n                                                        Milestone S.r.l\n                                                    ",
+		"release_data": "Feb  5, 2019",
+		"users_rating": "5.8"
 	},
 	{
 		"critic_rating": "72",
-		"release_date": "May 21, 2019",
-		"title": "\n                            Team Sonic Racing\n                                                    ",
-		"user_rating": "7.8"
+		"developer": "\n                    Question                ",
+		"genres": [
+			"Action Adventure",
+			"Survival"
+		],
+		"name": "The Blackout Club",
+		"publisher": "\n                                                        Question\n                                                    ",
+		"release_data": "Jul 30, 2019",
+		"users_rating": "5.5"
 	},
 	{
 		"critic_rating": "72",
-		"release_date": "Nov  8, 2019",
-		"title": "\n                            Need for Speed Heat\n                                                    ",
-		"user_rating": "6.4"
+		"developer": "\n                    Sumo Digital                ",
+		"genres": [
+			"Racing",
+			"Arcade",
+			"Automobile"
+		],
+		"name": "Team Sonic Racing",
+		"publisher": "\n                                                        Sega\n                                                    ",
+		"release_data": "May 21, 2019",
+		"users_rating": "7.5"
 	},
 	{
 		"critic_rating": "72",
-		"release_date": "Mar 29, 2019",
-		"title": "\n                            Assassin's Creed III Remastered\n                                                    ",
-		"user_rating": "4.4"
+		"developer": "\n                    Blue Isle Studios                ",
+		"genres": [
+			"Role-Playing",
+			"Action RPG"
+		],
+		"name": "Citadel: Forged with Fire",
+		"publisher": "\n                                                        Blue Isle Studios\n                                                    ",
+		"release_data": "Nov  1, 2019",
+		"users_rating": "6.3"
 	},
 	{
 		"critic_rating": "72",
-		"release_date": "Sep 10, 2019",
-		"title": "\n                            GreedFall\n                                                    ",
-		"user_rating": "8.0"
+		"developer": "\n                    Ghost Games                ",
+		"genres": [
+			"Racing",
+			"Arcade",
+			"Automobile"
+		],
+		"name": "Need for Speed Heat",
+		"publisher": "\n                                                        Electronic Arts\n                                                    ",
+		"release_data": "Nov  8, 2019",
+		"users_rating": "6.4"
 	},
 	{
 		"critic_rating": "72",
-		"release_date": "Nov 14, 2019",
-		"title": "\n                            Sparklite\n                                                    ",
-		"user_rating": "4.0"
+		"developer": "\n                    Ubisoft                ",
+		"genres": [
+			"Action Adventure",
+			"Open-World"
+		],
+		"name": "Assassin's Creed III Remastered",
+		"publisher": "\n                                                        Ubisoft\n                                                    ",
+		"release_data": "Mar 29, 2019",
+		"users_rating": "4.3"
 	},
 	{
 		"critic_rating": "72",
-		"release_date": "Jul  1, 2019",
-		"title": "\n                            They Are Billions\n                                                    ",
-		"user_rating": "4.5"
+		"developer": "\n                    Spiders                ",
+		"genres": [
+			"Role-Playing",
+			"Action RPG"
+		],
+		"name": "GreedFall",
+		"publisher": "\n                                                        Focus Home Interactive\n                                                    ",
+		"release_data": "Sep 10, 2019",
+		"users_rating": "8.0"
 	},
 	{
 		"critic_rating": "72",
-		"release_date": "Mar  1, 2019",
-		"title": "\n                            Dead or Alive 6\n                                                    ",
-		"user_rating": "5.4"
+		"developer": "\n                    Hibernian Workshop, The Arcade Crew                ",
+		"genres": [
+			"Action Adventure",
+			"General"
+		],
+		"name": "Dark Devotion",
+		"publisher": "\n                                                        Limited Run Games\n                                                    ",
+		"release_data": "Oct 24, 2019",
+		"users_rating": "5.8"
 	},
 	{
 		"critic_rating": "72",
-		"release_date": "Dec  3, 2019",
-		"title": "\n                            SIMULACRA\n                                                    ",
-		"user_rating": "1.3"
+		"developer": "\n                    The Knights of Unity                ",
+		"genres": [
+			"Simulation",
+			"Strategy",
+			"Management",
+			"Virtual",
+			"Career",
+			"Business / Tycoon"
+		],
+		"name": "Tools Up!",
+		"publisher": "\n                                                        All in! Games\n                                                    ",
+		"release_data": "Dec  3, 2019",
+		"users_rating": "7.1"
 	},
 	{
 		"critic_rating": "72",
-		"release_date": "Apr  9, 2019",
-		"title": "\n                            Zanki Zero: Last Beginning\n                                                    ",
-		"user_rating": "6.1"
+		"developer": "\n                    Numantian Games                ",
+		"genres": [
+			"Strategy",
+			"Real-Time",
+			"Defense"
+		],
+		"name": "They Are Billions",
+		"publisher": "\n                                                        BlitWorks\n                                                    ",
+		"release_data": "Jul  1, 2019",
+		"users_rating": "4.9"
 	},
 	{
 		"critic_rating": "72",
-		"release_date": "Dec 17, 2019",
-		"title": "\n                            Wattam\n                                                    ",
-		"user_rating": "6.6"
+		"developer": "\n                    Harmonix Music Systems                ",
+		"genres": [
+			"Action",
+			"Rhythm",
+			"Music"
+		],
+		"name": "Audica",
+		"publisher": "\n                                                        Harmonix Music Systems\n                                                    ",
+		"release_data": "Nov  5, 2019",
+		"users_rating": "tbd"
+	},
+	{
+		"critic_rating": "72",
+		"developer": "\n                    Team Ninja, Koei Tecmo Games                ",
+		"genres": [
+			"Action",
+			"Fighting",
+			"3D"
+		],
+		"name": "Dead or Alive 6",
+		"publisher": "\n                                                        Team Ninja\n                                                    ",
+		"release_data": "Mar  1, 2019",
+		"users_rating": "5.2"
+	},
+	{
+		"critic_rating": "72",
+		"developer": "\n                    Beamdog                ",
+		"genres": [
+			"Miscellaneous",
+			"Compilation"
+		],
+		"name": "Planescape: Torment: Enhanced Edition / Icewind Dale: Enhanced Edition",
+		"publisher": "\n                                                        Skybound Games\n                                                    ",
+		"release_data": "Oct 15, 2019",
+		"users_rating": "tbd"
+	},
+	{
+		"critic_rating": "72",
+		"developer": "\n                    Kaigan Games OU                ",
+		"genres": [
+			"Simulation",
+			"Virtual",
+			"Virtual Life"
+		],
+		"name": "SIMULACRA",
+		"publisher": "\n                                                        Wales Interactive Ltd.\n                                                    ",
+		"release_data": "Dec  3, 2019",
+		"users_rating": "2.9"
+	},
+	{
+		"critic_rating": "72",
+		"developer": "\n                    Spike Chunsoft                ",
+		"genres": [
+			"Role-Playing",
+			"General"
+		],
+		"name": "Zanki Zero: Last Beginning",
+		"publisher": "\n                                                        Spike Chunsoft\n                                                    ",
+		"release_data": "Apr  9, 2019",
+		"users_rating": "6.2"
+	},
+	{
+		"critic_rating": "72",
+		"developer": "\n                    Funomena                ",
+		"genres": [
+			"Action",
+			"Action Adventure",
+			"Adventure",
+			"General",
+			"3D",
+			"Linear",
+			"Third-Person"
+		],
+		"name": "Wattam",
+		"publisher": "\n                                                        Annapurna Interactive\n                                                    ",
+		"release_data": "Dec 17, 2019",
+		"users_rating": "6.6"
+	},
+	{
+		"critic_rating": "72",
+		"developer": "\n                    Jackbox Games, Inc.                ",
+		"genres": [
+			"Miscellaneous",
+			"Party / Minigame"
+		],
+		"name": "The Jackbox Party Pack 6",
+		"publisher": "\n                                                        Jackbox Games, Inc.\n                                                    ",
+		"release_data": "Oct 17, 2019",
+		"users_rating": "tbd"
 	},
 	{
 		"critic_rating": "71",
-		"release_date": "Apr 18, 2019",
-		"title": "\n                            God's Trigger\n                                                    ",
-		"user_rating": "7.5"
+		"developer": "\n                    Techland, ONE MORE LEVEL                ",
+		"genres": [
+			"Action",
+			"Action Adventure",
+			"Shooter",
+			"Linear",
+			"Shoot-'Em-Up",
+			"Top-Down"
+		],
+		"name": "God's Trigger",
+		"publisher": "\n                                                        Techland\n                                                    ",
+		"release_data": "Apr 18, 2019",
+		"users_rating": "7.5"
 	},
 	{
 		"critic_rating": "71",
-		"release_date": "Feb 15, 2019",
-		"title": "\n                            Far Cry New Dawn\n                                                    ",
-		"user_rating": "3.9"
+		"developer": "\n                    Ubisoft Montreal                ",
+		"genres": [
+			"Action",
+			"Shooter",
+			"First-Person",
+			"Arcade"
+		],
+		"name": "Far Cry New Dawn",
+		"publisher": "\n                                                        Ubisoft\n                                                    ",
+		"release_data": "Feb 15, 2019",
+		"users_rating": "3.9"
 	},
 	{
 		"critic_rating": "71",
-		"release_date": "Apr 26, 2019",
-		"title": "\n                            Days Gone\n                                                    ",
-		"user_rating": "8.1"
+		"developer": "\n                    Sony Bend                ",
+		"genres": [
+			"Action Adventure",
+			"Open-World"
+		],
+		"name": "Days Gone",
+		"publisher": "\n                                                        Sony Interactive Entertainment\n                                                    ",
+		"release_data": "Apr 26, 2019",
+		"users_rating": "8.1"
 	},
 	{
 		"critic_rating": "71",
-		"release_date": "Jun 19, 2019",
-		"title": "\n                            Leisure Suit Larry: Wet Dreams Don't Dry\n                                                    ",
-		"user_rating": "6.8"
+		"developer": "\n                    CrazyBunch                ",
+		"genres": [
+			"Adventure",
+			"Point-and-Click"
+		],
+		"name": "Leisure Suit Larry: Wet Dreams Don't Dry",
+		"publisher": "\n                                                        Assemble Entertainment\n                                                    ",
+		"release_data": "Jun 19, 2019",
+		"users_rating": "6.8"
 	},
 	{
 		"critic_rating": "71",
-		"release_date": "Feb 19, 2019",
-		"title": "\n                            Death end re;Quest\n                                                    ",
-		"user_rating": "7.5"
+		"developer": "\n                    Compile Heart                ",
+		"genres": [
+			"Role-Playing",
+			"Japanese-Style"
+		],
+		"name": "Death end re;Quest",
+		"publisher": "\n                                                        Idea Factory\n                                                    ",
+		"release_data": "Feb 19, 2019",
+		"users_rating": "7.8"
 	},
 	{
 		"critic_rating": "71",
-		"release_date": "Feb  5, 2019",
-		"title": "\n                            Melbits World\n                                                    ",
-		"user_rating": "6.6"
+		"developer": "\n                    Melbot Studios                ",
+		"genres": [
+			"Puzzle",
+			"Action"
+		],
+		"name": "Melbits World",
+		"publisher": "\n                                                        Sony Interactive Entertainment\n                                                    ",
+		"release_data": "Feb  5, 2019",
+		"users_rating": "6.6"
 	},
 	{
 		"critic_rating": "71",
-		"release_date": "Feb  8, 2019",
-		"title": "\n                            God Eater 3\n                                                    ",
-		"user_rating": "7.4"
+		"developer": "\n                    Bandai Namco Games, Marvelous First Studio                ",
+		"genres": [
+			"Role-Playing",
+			"Action RPG"
+		],
+		"name": "God Eater 3",
+		"publisher": "\n                                                        Bandai Namco Games\n                                                    ",
+		"release_data": "Feb  8, 2019",
+		"users_rating": "7.4"
 	},
 	{
 		"critic_rating": "71",
-		"release_date": "Jan 29, 2019",
-		"title": "\n                            The Hong Kong Massacre\n                                                    ",
-		"user_rating": "5.9"
+		"developer": "\n                    VRESKI                ",
+		"genres": [
+			"Action",
+			"Shooter",
+			"Shoot-'Em-Up",
+			"Top-Down"
+		],
+		"name": "The Hong Kong Massacre",
+		"publisher": "\n                                                        VRESKI\n                                                    ",
+		"release_data": "Jan 29, 2019",
+		"users_rating": "5.9"
 	},
 	{
 		"critic_rating": "71",
-		"release_date": "Sep 20, 2019",
-		"title": "\n                            The Sojourn\n                                                    ",
-		"user_rating": "6.4"
+		"developer": "\n                    Shifting Tides                ",
+		"genres": [
+			"Adventure",
+			"3D",
+			"First-Person"
+		],
+		"name": "The Sojourn",
+		"publisher": "\n                                                        Iceberg Interactive\n                                                    ",
+		"release_data": "Sep 20, 2019",
+		"users_rating": "6.4"
 	},
 	{
 		"critic_rating": "71",
-		"release_date": "Apr 16, 2019",
-		"title": "\n                            Heaven's Vault\n                                                    ",
-		"user_rating": "4.0"
+		"developer": "\n                    inkle                ",
+		"genres": [
+			"Adventure",
+			"General"
+		],
+		"name": "Heaven's Vault",
+		"publisher": "\n                                                        inkle\n                                                    ",
+		"release_data": "Apr 16, 2019",
+		"users_rating": "4.0"
 	},
 	{
 		"critic_rating": "70",
-		"release_date": "Oct 29, 2019",
-		"title": "\n                            Afterparty\n                                                    ",
-		"user_rating": "6.5"
+		"developer": "\n                    Night School Studio                ",
+		"genres": [
+			"Adventure",
+			"General"
+		],
+		"name": "Afterparty",
+		"publisher": "\n                                                        Night School Studio\n                                                    ",
+		"release_data": "Oct 29, 2019",
+		"users_rating": "6.4"
 	},
 	{
 		"critic_rating": "70",
-		"release_date": "Nov 22, 2019",
-		"title": "\n                            Lost Ember\n                                                    ",
-		"user_rating": "7.0"
+		"developer": "\n                    Innerspace VR                ",
+		"genres": [
+			"Adventure",
+			"General"
+		],
+		"name": "A Fisherman's Tale",
+		"publisher": "\n                                                        Vertigo Games\n                                                    ",
+		"release_data": "Jan 22, 2019",
+		"users_rating": "4.3"
 	},
 	{
 		"critic_rating": "70",
-		"release_date": "Jan 22, 2019",
-		"title": "\n                            A Fisherman's Tale\n                                                    ",
-		"user_rating": "4.3"
+		"developer": "\n                    Mooneye Studios                ",
+		"genres": [
+			"Action Adventure",
+			"Open-World"
+		],
+		"name": "Lost Ember",
+		"publisher": "\n                                                        Mooneye Studios\n                                                    ",
+		"release_data": "Nov 22, 2019",
+		"users_rating": "7.0"
 	},
 	{
 		"critic_rating": "70",
-		"release_date": "Sep 27, 2019",
-		"title": "\n                            Code Vein\n                                                    ",
-		"user_rating": "7.9"
+		"developer": "\n                    Bit Dragon                ",
+		"genres": [
+			"Action",
+			"Shooter",
+			"Shoot-'Em-Up",
+			"Top-Down"
+		],
+		"name": "Hyper Jam",
+		"publisher": "\n                                                        Bit Dragon\n                                                    ",
+		"release_data": "Feb 12, 2019",
+		"users_rating": "4.0"
 	},
 	{
 		"critic_rating": "70",
-		"release_date": "Feb 14, 2019",
-		"title": "\n                            Degrees of Separation\n                                                    ",
-		"user_rating": "5.4"
+		"developer": "\n                    Bandai Namco Games                ",
+		"genres": [
+			"Role-Playing",
+			"Action RPG"
+		],
+		"name": "Code Vein",
+		"publisher": "\n                                                        Bandai\n                                                    ",
+		"release_data": "Sep 27, 2019",
+		"users_rating": "7.9"
 	},
 	{
 		"critic_rating": "70",
-		"release_date": "Sep 10, 2019",
-		"title": "\n                            NASCAR Heat 4\n                                                    ",
-		"user_rating": "5.1"
+		"developer": "\n                    Moondrop Studios                ",
+		"genres": [
+			"Action",
+			"Platformer",
+			"2D"
+		],
+		"name": "Degrees of Separation",
+		"publisher": "\n                                                        Modus Games\n                                                    ",
+		"release_data": "Feb 14, 2019",
+		"users_rating": "5.8"
 	},
 	{
 		"critic_rating": "70",
-		"release_date": "Apr  9, 2019",
-		"title": "\n                            Falcon Age\n                                                    ",
-		"user_rating": "6.0"
+		"developer": "\n                    704Games                ",
+		"genres": [
+			"Racing",
+			"Simulation",
+			"Automobile"
+		],
+		"name": "NASCAR Heat 4",
+		"publisher": "\n                                                        704Games\n                                                    ",
+		"release_data": "Sep 10, 2019",
+		"users_rating": "5.3"
 	},
 	{
 		"critic_rating": "70",
-		"release_date": "Aug  6, 2019",
-		"title": "\n                            The Angry Birds Movie 2 VR: Under Pressure\n                                                    ",
-		"user_rating": "7.7"
+		"developer": "\n                    Outerloop Games                ",
+		"genres": [
+			"Action Adventure",
+			"General"
+		],
+		"name": "Falcon Age",
+		"publisher": "\n                                                        Outerloop Games\n                                                    ",
+		"release_data": "Apr  9, 2019",
+		"users_rating": "5.8"
+	},
+	{
+		"critic_rating": "70",
+		"developer": "\n                    XR Games                ",
+		"genres": [
+			"Puzzle",
+			"Action"
+		],
+		"name": "The Angry Birds Movie 2 VR: Under Pressure",
+		"publisher": "\n                                                        Sony Pictures Digital Entertainment\n                                                    ",
+		"release_data": "Aug  6, 2019",
+		"users_rating": "7.7"
 	},
 	{
 		"critic_rating": "69",
-		"release_date": "Dec  6, 2019",
-		"title": "\n                            Ancestors: The Humankind Odyssey\n                                                    ",
-		"user_rating": "5.5"
+		"developer": "\n                    Supermassive Games                ",
+		"genres": [
+			"Action Adventure",
+			"Survival"
+		],
+		"name": "The Dark Pictures - Man of Medan",
+		"publisher": "\n                                                        Bandai Namco Games\n                                                    ",
+		"release_data": "Aug 30, 2019",
+		"users_rating": "5.8"
 	},
 	{
 		"critic_rating": "69",
-		"release_date": "Aug 30, 2019",
-		"title": "\n                            The Dark Pictures - Man of Medan\n                                                    ",
-		"user_rating": "5.9"
+		"developer": "\n                    Square Enix                ",
+		"genres": [
+			"Action RPG",
+			"Role-Playing",
+			"Roguelike"
+		],
+		"name": "Chocobo's Mystery Dungeon: Every Buddy!",
+		"publisher": "\n                                                        Square Enix\n                                                    ",
+		"release_data": "Mar 20, 2019",
+		"users_rating": "6.9"
 	},
 	{
 		"critic_rating": "69",
-		"release_date": "Mar 20, 2019",
-		"title": "\n                            Chocobo's Mystery Dungeon: Every Buddy!\n                                                    ",
-		"user_rating": "6.9"
+		"developer": "\n                    IO Entertainment                ",
+		"genres": [
+			"Miscellaneous",
+			"Compilation"
+		],
+		"name": "Hitman HD Enhanced Collection",
+		"publisher": "\n                                                        Warner Bros. Interactive Entertainment\n                                                    ",
+		"release_data": "Jan 11, 2019",
+		"users_rating": "2.1"
 	},
 	{
 		"critic_rating": "69",
-		"release_date": "Jan 11, 2019",
-		"title": "\n                            Hitman HD Enhanced Collection\n                                                    ",
-		"user_rating": "2.1"
+		"developer": "\n                    Nippon Ichi Software                ",
+		"genres": [
+			"Action",
+			"General"
+		],
+		"name": "The Liar Princess and the Blind Prince",
+		"publisher": "\n                                                        NIS America\n                                                    ",
+		"release_data": "Feb 12, 2019",
+		"users_rating": "6.5"
 	},
 	{
 		"critic_rating": "69",
-		"release_date": "Feb 12, 2019",
-		"title": "\n                            The Liar Princess and the Blind Prince\n                                                    ",
-		"user_rating": "6.5"
+		"developer": "\n                    Flavourworks                ",
+		"genres": [
+			"Adventure",
+			"3D",
+			"Third-Person"
+		],
+		"name": "Erica",
+		"publisher": "\n                                                        Sony Interactive Entertainment\n                                                    ",
+		"release_data": "Aug 19, 2019",
+		"users_rating": "6.9"
 	},
 	{
 		"critic_rating": "69",
-		"release_date": "Aug 19, 2019",
-		"title": "\n                            Erica\n                                                    ",
-		"user_rating": "7.0"
+		"developer": "\n                    THQ Nordic                ",
+		"genres": [
+			"Racing",
+			"Simulation",
+			"Automobile"
+		],
+		"name": "MX vs. ATV All Out: Anniversary Edition",
+		"publisher": "\n                                                        THQ Nordic\n                                                    ",
+		"release_data": "Mar 12, 2019",
+		"users_rating": "3.6"
 	},
 	{
 		"critic_rating": "69",
-		"release_date": "Feb  5, 2019",
-		"title": "\n                            The Mage's Tale\n                                                    ",
-		"user_rating": "5.0"
+		"developer": "\n                    InXile Entertainment                ",
+		"genres": [
+			"Adventure",
+			"General"
+		],
+		"name": "The Mage's Tale",
+		"publisher": "\n                                                        InXile Entertainment\n                                                    ",
+		"release_data": "Feb  5, 2019",
+		"users_rating": "5.0"
 	},
 	{
 		"critic_rating": "69",
-		"release_date": "Aug 22, 2019",
-		"title": "\n                            Oninaki\n                                                    ",
-		"user_rating": "5.3"
+		"developer": "\n                    Tokyo RPG Factory                ",
+		"genres": [
+			"Japanese-Style",
+			"Role-Playing",
+			"Action RPG"
+		],
+		"name": "Oninaki",
+		"publisher": "\n                                                        Square Enix\n                                                    ",
+		"release_data": "Aug 22, 2019",
+		"users_rating": "5.3"
 	},
 	{
 		"critic_rating": "69",
-		"release_date": "Apr 11, 2019",
-		"title": "\n                            Earth Defense Force: Iron Rain\n                                                    ",
-		"user_rating": "5.3"
+		"developer": "\n                    Panache Digital Games                ",
+		"genres": [
+			"Action Adventure",
+			"General",
+			"Survival"
+		],
+		"name": "Ancestors: The Humankind Odyssey",
+		"publisher": "\n                                                        Panache Digital Games\n                                                    ",
+		"release_data": "Dec  6, 2019",
+		"users_rating": "5.6"
 	},
 	{
 		"critic_rating": "69",
-		"release_date": "Jul  5, 2019",
-		"title": "\n                            Sea of Solitude\n                                                    ",
-		"user_rating": "6.8"
+		"developer": "\n                    Yuke's                ",
+		"genres": [
+			"Action",
+			"Shooter",
+			"Third-Person",
+			"Arcade"
+		],
+		"name": "Earth Defense Force: Iron Rain",
+		"publisher": "\n                                                        D3Publisher\n                                                    ",
+		"release_data": "Apr 11, 2019",
+		"users_rating": "5.1"
+	},
+	{
+		"critic_rating": "69",
+		"developer": "\n                    Vertigo Games                ",
+		"genres": [
+			"Adventure",
+			"General"
+		],
+		"name": "Skyworld",
+		"publisher": "\n                                                        Vertigo Games\n                                                    ",
+		"release_data": "Mar 26, 2019",
+		"users_rating": "5.2"
+	},
+	{
+		"critic_rating": "69",
+		"developer": "\n                    Jo-Mei Games                ",
+		"genres": [
+			"Adventure",
+			"3D",
+			"Third-Person"
+		],
+		"name": "Sea of Solitude",
+		"publisher": "\n                                                        Electronic Arts\n                                                    ",
+		"release_data": "Jul  5, 2019",
+		"users_rating": "6.8"
 	},
 	{
 		"critic_rating": "68",
-		"release_date": "May 28, 2019",
-		"title": "\n                            Layers of Fear 2\n                                                    ",
-		"user_rating": "6.1"
+		"developer": "\n                    Bloober Team                ",
+		"genres": [
+			"Action Adventure",
+			"Survival"
+		],
+		"name": "Layers of Fear 2",
+		"publisher": "\n                                                        Gun Media\n                                                    ",
+		"release_data": "May 28, 2019",
+		"users_rating": "6.1"
 	},
 	{
 		"critic_rating": "68",
-		"release_date": "Nov 19, 2019",
-		"title": "\n                            Shenmue III\n                                                    ",
-		"user_rating": "7.9"
+		"developer": "\n                    Merge Games                ",
+		"genres": [
+			"Adventure",
+			"General"
+		],
+		"name": "Truberbrook",
+		"publisher": "\n                                                        Headup Games\n                                                    ",
+		"release_data": "Apr 17, 2019",
+		"users_rating": "5.3"
 	},
 	{
 		"critic_rating": "68",
-		"release_date": "Jul 26, 2019",
-		"title": "\n                            Kill la Kill: IF\n                                                    ",
-		"user_rating": "7.6"
+		"developer": "\n                    Studio TRIGGER, Aplus                ",
+		"genres": [
+			"Action Adventure",
+			"General",
+			"Action",
+			"Fighting",
+			"3D"
+		],
+		"name": "Kill la Kill: IF",
+		"publisher": "\n                                                        Arc System Works\n                                                    ",
+		"release_data": "Jul 26, 2019",
+		"users_rating": "7.6"
 	},
 	{
 		"critic_rating": "68",
-		"release_date": "Mar 12, 2019",
-		"title": "\n                            The Wizards: Enhanced Edition\n                                                    ",
-		"user_rating": "5.8"
+		"developer": "\n                    Ubisoft                ",
+		"genres": [
+			"Action Adventure",
+			"Open-World"
+		],
+		"name": "Assassin's Creed Odyssey: Story Arc 1 - Legacy of the First Blade: Episode 3",
+		"publisher": "\n                                                        Ubisoft\n                                                    ",
+		"release_data": "Mar  4, 2019",
+		"users_rating": "3.2"
 	},
 	{
 		"critic_rating": "68",
-		"release_date": "Jun  4, 2019",
-		"title": "\n                            Effie\n                                                    ",
-		"user_rating": "6.8"
+		"developer": "\n                    Carbon Studio                ",
+		"genres": [
+			"Action",
+			"Shooter",
+			"Light Gun"
+		],
+		"name": "The Wizards: Enhanced Edition",
+		"publisher": "\n                                                        Carbon Studio\n                                                    ",
+		"release_data": "Mar 12, 2019",
+		"users_rating": "5.8"
 	},
 	{
 		"critic_rating": "68",
-		"release_date": "Jan 15, 2019",
-		"title": "\n                            Smoke and Sacrifice\n                                                    ",
-		"user_rating": "5.6"
+		"developer": "\n                    Factoria Cultural Gestio, S.L.                ",
+		"genres": [
+			"Action",
+			"Platformer",
+			"3D"
+		],
+		"name": "Effie",
+		"publisher": "\n                                                        Factoria Cultural Gestio, S.L.\n                                                    ",
+		"release_data": "Jun  4, 2019",
+		"users_rating": "6.8"
 	},
 	{
 		"critic_rating": "68",
-		"release_date": "Oct 29, 2019",
-		"title": "\n                            Close to the Sun\n                                                    ",
-		"user_rating": "4.3"
+		"developer": "\n                    Solar Sail Games                ",
+		"genres": [
+			"Action Adventure",
+			"General"
+		],
+		"name": "Smoke and Sacrifice",
+		"publisher": "\n                                                        Curve Digital\n                                                    ",
+		"release_data": "Jan 15, 2019",
+		"users_rating": "5.6"
 	},
 	{
 		"critic_rating": "68",
-		"release_date": "Aug 27, 2019",
-		"title": "\n                            MXGP 2019\n                                                    ",
-		"user_rating": "2.0"
+		"developer": "\n                    Ys Net                ",
+		"genres": [
+			"Action Adventure",
+			"Open-World"
+		],
+		"name": "Shenmue III",
+		"publisher": "\n                                                        Deep Silver\n                                                    ",
+		"release_data": "Nov 19, 2019",
+		"users_rating": "7.9"
+	},
+	{
+		"critic_rating": "68",
+		"developer": "\n                    Storm in a Teacup                ",
+		"genres": [
+			"Adventure",
+			"3D",
+			"First-Person"
+		],
+		"name": "Close to the Sun",
+		"publisher": "\n                                                        Wired Productions\n                                                    ",
+		"release_data": "Oct 29, 2019",
+		"users_rating": "4.3"
+	},
+	{
+		"critic_rating": "68",
+		"developer": "\n                    Milestone S.r.l                ",
+		"genres": [
+			"Racing",
+			"Arcade",
+			"Automobile"
+		],
+		"name": "MXGP 2019",
+		"publisher": "\n                                                        Milestone S.r.l\n                                                    ",
+		"release_data": "Aug 27, 2019",
+		"users_rating": "2.0"
 	},
 	{
 		"critic_rating": "67",
-		"release_date": "Apr 12, 2019",
-		"title": "\n                            Giga Wrecker Alt.\n                                                    ",
-		"user_rating": "2.0"
+		"developer": "\n                    Game Freak                ",
+		"genres": [
+			"Action",
+			"Platformer",
+			"2D"
+		],
+		"name": "Giga Wrecker Alt.",
+		"publisher": "\n                                                        Rising Star Games\n                                                    ",
+		"release_data": "Apr 12, 2019",
+		"users_rating": "2.0"
 	},
 	{
 		"critic_rating": "67",
-		"release_date": "Oct 25, 2019",
-		"title": "\n                            MediEvil\n                                                    ",
-		"user_rating": "8.3"
+		"developer": "\n                    Other Ocean Interactive, Sony Interactive Entertainment                ",
+		"genres": [
+			"Action Adventure",
+			"General"
+		],
+		"name": "MediEvil",
+		"publisher": "\n                                                        Sony Interactive Entertainment\n                                                    ",
+		"release_data": "Oct 25, 2019",
+		"users_rating": "8.3"
 	},
 	{
 		"critic_rating": "67",
-		"release_date": "Aug 27, 2019",
-		"title": "\n                            Crystar\n                                                    ",
-		"user_rating": "6.4"
+		"developer": "\n                    Infuse Studio                ",
+		"genres": [
+			"Adventure",
+			"3D",
+			"Third-Person"
+		],
+		"name": "Spirit of the North",
+		"publisher": "\n                                                        Infuse Studio\n                                                    ",
+		"release_data": "Nov  1, 2019",
+		"users_rating": "8.1"
 	},
 	{
 		"critic_rating": "67",
-		"release_date": "Mar 26, 2019",
-		"title": "\n                            Nelke & the Legendary Alchemists: Ateliers of the New World\n                                                    ",
-		"user_rating": "3.5"
+		"developer": "\n                    FuRyu                ",
+		"genres": [
+			"Role-Playing",
+			"General",
+			"Action RPG"
+		],
+		"name": "Crystar",
+		"publisher": "\n                                                        Spike Chunsoft\n                                                    ",
+		"release_data": "Aug 27, 2019",
+		"users_rating": "6.8"
 	},
 	{
 		"critic_rating": "67",
-		"release_date": "Oct  8, 2019",
-		"title": "\n                            The Bradwell Conspiracy\n                                                    ",
-		"user_rating": "5.6"
+		"developer": "\n                    Gust                ",
+		"genres": [
+			"Role-Playing",
+			"General"
+		],
+		"name": "Nelke & the Legendary Alchemists: Ateliers of the New World",
+		"publisher": "\n                                                        Koei Tecmo Games\n                                                    ",
+		"release_data": "Mar 26, 2019",
+		"users_rating": "3.5"
 	},
 	{
 		"critic_rating": "67",
-		"release_date": "Jun 18, 2019",
-		"title": "\n                            Mini-Mech Mayhem\n                                                    ",
-		"user_rating": "5.5"
+		"developer": "\n                    Ludomotion                ",
+		"genres": [
+			"Action",
+			"Role-Playing",
+			"Shooter",
+			"Action RPG",
+			"Shoot-'Em-Up",
+			"Top-Down"
+		],
+		"name": "Unexplored: Unlocked Edition",
+		"publisher": "\n                                                        Digerati Distribution\n                                                    ",
+		"release_data": "Feb 19, 2019",
+		"users_rating": "tbd"
 	},
 	{
 		"critic_rating": "67",
-		"release_date": "May 14, 2019",
-		"title": "\n                            RAGE 2\n                                                    ",
-		"user_rating": "5.8"
+		"developer": "\n                    Polyslash                ",
+		"genres": [
+			"Adventure",
+			"General"
+		],
+		"name": "We. The Revolution",
+		"publisher": "\n                                                        Klabater\n                                                    ",
+		"release_data": "Jun 25, 2019",
+		"users_rating": "2.8"
 	},
 	{
 		"critic_rating": "67",
-		"release_date": "Jul 19, 2019",
-		"title": "\n                            Redeemer: Enhanced Edition\n                                                    ",
-		"user_rating": "7.2"
+		"developer": "\n                    Bossa Studios                ",
+		"genres": [
+			"Adventure",
+			"3D",
+			"First-Person"
+		],
+		"name": "The Bradwell Conspiracy",
+		"publisher": "\n                                                        A Brave Plan\n                                                    ",
+		"release_data": "Oct  8, 2019",
+		"users_rating": "5.6"
 	},
 	{
 		"critic_rating": "67",
-		"release_date": "Apr 16, 2019",
-		"title": "\n                            World War Z\n                                                    ",
-		"user_rating": "6.2"
+		"developer": "\n                    FuturLab                ",
+		"genres": [
+			"Action",
+			"General"
+		],
+		"name": "Mini-Mech Mayhem",
+		"publisher": "\n                                                        FuturLab\n                                                    ",
+		"release_data": "Jun 18, 2019",
+		"users_rating": "5.5"
+	},
+	{
+		"critic_rating": "67",
+		"developer": "\n                    id Software, Avalanche Studios                ",
+		"genres": [
+			"Action",
+			"Shooter",
+			"First-Person",
+			"Arcade"
+		],
+		"name": "RAGE 2",
+		"publisher": "\n                                                        Bethesda Softworks\n                                                    ",
+		"release_data": "May 14, 2019",
+		"users_rating": "5.8"
+	},
+	{
+		"critic_rating": "67",
+		"developer": "\n                    Sobaka                ",
+		"genres": [
+			"Action Adventure",
+			"Linear"
+		],
+		"name": "Redeemer: Enhanced Edition",
+		"publisher": "\n                                                        Buka Entertainment\n                                                    ",
+		"release_data": "Jul 19, 2019",
+		"users_rating": "7.2"
+	},
+	{
+		"critic_rating": "67",
+		"developer": "\n                    Saber Interactive                ",
+		"genres": [
+			"Action",
+			"Shooter",
+			"First-Person",
+			"Tactical"
+		],
+		"name": "World War Z",
+		"publisher": "\n                                                        Saber Interactive\n                                                    ",
+		"release_data": "Apr 16, 2019",
+		"users_rating": "6.2"
 	},
 	{
 		"critic_rating": "66",
-		"release_date": "Dec  3, 2019",
-		"title": "\n                            Neverwinter Nights: Enhanced Edition\n                                                    ",
-		"user_rating": "3.9"
+		"developer": "\n                    Pixel Crow                ",
+		"genres": [
+			"Simulation",
+			"Virtual",
+			"Career"
+		],
+		"name": "Beat Cop",
+		"publisher": "\n                                                        11 bit studios\n                                                    ",
+		"release_data": "Mar  5, 2019",
+		"users_rating": "tbd"
 	},
 	{
 		"critic_rating": "66",
-		"release_date": "Oct  4, 2019",
-		"title": "\n                            Ghostbusters: The Video Game Remastered\n                                                    ",
-		"user_rating": "6.4"
+		"developer": "\n                    Saber Interactive                ",
+		"genres": [
+			"Action",
+			"General"
+		],
+		"name": "Ghostbusters: The Video Game Remastered",
+		"publisher": "\n                                                        Saber Interactive\n                                                    ",
+		"release_data": "Oct  4, 2019",
+		"users_rating": "6.4"
 	},
 	{
 		"critic_rating": "66",
-		"release_date": "Feb 15, 2019",
-		"title": "\n                            ToeJam & Earl: Back in the Groove\n                                                    ",
-		"user_rating": "6.2"
+		"developer": "\n                    Beamdog                ",
+		"genres": [
+			"Role-Playing",
+			"Western-Style"
+		],
+		"name": "Neverwinter Nights: Enhanced Edition",
+		"publisher": "\n                                                        Skybound Games\n                                                    ",
+		"release_data": "Dec  3, 2019",
+		"users_rating": "4.2"
 	},
 	{
 		"critic_rating": "66",
-		"release_date": "May 21, 2019",
-		"title": "\n                            American Fugitive\n                                                    ",
-		"user_rating": "5.8"
+		"developer": "\n                    Humanature Studios                ",
+		"genres": [
+			"Action",
+			"General"
+		],
+		"name": "ToeJam & Earl: Back in the Groove",
+		"publisher": "\n                                                        Adult Swim\n                                                    ",
+		"release_data": "Feb 15, 2019",
+		"users_rating": "6.2"
 	},
 	{
 		"critic_rating": "66",
-		"release_date": "Jun  9, 2019",
-		"title": "\n                            Riverbond\n                                                    ",
-		"user_rating": "5.1"
+		"developer": "\n                    Fallen Tree Games                ",
+		"genres": [
+			"Action Adventure",
+			"Sandbox",
+			"Open-World"
+		],
+		"name": "American Fugitive",
+		"publisher": "\n                                                        Curve Digital\n                                                    ",
+		"release_data": "May 21, 2019",
+		"users_rating": "5.8"
+	},
+	{
+		"critic_rating": "66",
+		"developer": "\n                    Cococucumber                ",
+		"genres": [
+			"Action",
+			"General"
+		],
+		"name": "Riverbond",
+		"publisher": "\n                                                        Cococucumber\n                                                    ",
+		"release_data": "Jun  9, 2019",
+		"users_rating": "5.1"
 	},
 	{
 		"critic_rating": "65",
-		"release_date": "Jan 22, 2019",
-		"title": "\n                            Senran Kagura Burst Re:Newal\n                                                    ",
-		"user_rating": "4.2"
+		"developer": "\n                    Honey Parade Games                ",
+		"genres": [
+			"Action",
+			"Beat-'Em-Up",
+			"2D"
+		],
+		"name": "Senran Kagura Burst Re:Newal",
+		"publisher": "\n                                                        XSEED Games\n                                                    ",
+		"release_data": "Jan 22, 2019",
+		"users_rating": "4.2"
 	},
 	{
 		"critic_rating": "65",
-		"release_date": "May 14, 2019",
-		"title": "\n                            Sniper Elite V2 Remastered\n                                                    ",
-		"user_rating": "3.6"
+		"developer": "\n                    JFi Games                ",
+		"genres": [
+			"Action",
+			"Role-Playing",
+			"General",
+			"Action RPG"
+		],
+		"name": "Dusk Diver",
+		"publisher": "\n                                                        PQube\n                                                    ",
+		"release_data": "Oct 29, 2019",
+		"users_rating": "5.8"
 	},
 	{
 		"critic_rating": "65",
-		"release_date": "Feb 12, 2019",
-		"title": "\n                            Conarium\n                                                    ",
-		"user_rating": "3.1"
+		"developer": "\n                    Rebellion                ",
+		"genres": [
+			"Action",
+			"Shooter",
+			"Third-Person",
+			"Tactical"
+		],
+		"name": "Sniper Elite V2 Remastered",
+		"publisher": "\n                                                        Rebellion\n                                                    ",
+		"release_data": "May 14, 2019",
+		"users_rating": "3.6"
 	},
 	{
 		"critic_rating": "65",
-		"release_date": "Nov 22, 2019",
-		"title": "\n                            Sniper Ghost Warrior Contracts\n                                                    ",
-		"user_rating": "6.2"
+		"developer": "\n                    Zoetrope Interactive                ",
+		"genres": [
+			"Adventure",
+			"3D",
+			"First-Person"
+		],
+		"name": "Conarium",
+		"publisher": "\n                                                        Iceberg Interactive\n                                                    ",
+		"release_data": "Feb 12, 2019",
+		"users_rating": "3.2"
 	},
 	{
 		"critic_rating": "65",
-		"release_date": "Dec  3, 2019",
-		"title": "\n                            Blair Witch\n                                                    ",
-		"user_rating": "6.3"
+		"developer": "\n                    CI Games                ",
+		"genres": [
+			"Action",
+			"Shooter",
+			"First-Person",
+			"Tactical"
+		],
+		"name": "Sniper Ghost Warrior Contracts",
+		"publisher": "\n                                                        CI Games\n                                                    ",
+		"release_data": "Nov 22, 2019",
+		"users_rating": "6.2"
+	},
+	{
+		"critic_rating": "65",
+		"developer": "\n                    nWay                ",
+		"genres": [
+			"Action",
+			"Platformer",
+			"Fighting",
+			"2D"
+		],
+		"name": "Power Rangers: Battle for the Grid",
+		"publisher": "\n                                                        nWay\n                                                    ",
+		"release_data": "Apr  2, 2019",
+		"users_rating": "6.6"
+	},
+	{
+		"critic_rating": "65",
+		"developer": "\n                    Bloober Team                ",
+		"genres": [
+			"Action Adventure",
+			"Survival"
+		],
+		"name": "Blair Witch",
+		"publisher": "\n                                                        Bloober Team\n                                                    ",
+		"release_data": "Dec  3, 2019",
+		"users_rating": "6.1"
 	},
 	{
 		"critic_rating": "64",
-		"release_date": "Jan 29, 2019",
-		"title": "\n                            Genesis Alpha One\n                                                    ",
-		"user_rating": "3.8"
+		"developer": "\n                    Serenity Forge                ",
+		"genres": [
+			"Action",
+			"Platformer",
+			"2D"
+		],
+		"name": "The King's Bird",
+		"publisher": "\n                                                        Graffiti Games\n                                                    ",
+		"release_data": "Feb 12, 2019",
+		"users_rating": "tbd"
 	},
 	{
 		"critic_rating": "64",
-		"release_date": "Mar 12, 2019",
-		"title": "\n                            The Caligula Effect: Overdose\n                                                    ",
-		"user_rating": "5.8"
+		"developer": "\n                    Radiation Blue                ",
+		"genres": [
+			"Action",
+			"Shooter",
+			"First-Person",
+			"Arcade"
+		],
+		"name": "Genesis Alpha One",
+		"publisher": "\n                                                        Team 17\n                                                    ",
+		"release_data": "Jan 29, 2019",
+		"users_rating": "4.0"
 	},
 	{
 		"critic_rating": "64",
-		"release_date": "Mar 26, 2019",
-		"title": "\n                            Xenon Racer\n                                                    ",
-		"user_rating": "5.8"
+		"developer": "\n                    Aquria                ",
+		"genres": [
+			"Role-Playing",
+			"General"
+		],
+		"name": "The Caligula Effect: Overdose",
+		"publisher": "\n                                                        NIS America\n                                                    ",
+		"release_data": "Mar 12, 2019",
+		"users_rating": "5.8"
 	},
 	{
 		"critic_rating": "64",
-		"release_date": "Feb 19, 2019",
-		"title": "\n                            ChromaGun VR\n                                                    ",
-		"user_rating": "5.1"
+		"developer": "\n                    3DClouds.it                ",
+		"genres": [
+			"Racing",
+			"Arcade",
+			"Automobile"
+		],
+		"name": "Xenon Racer",
+		"publisher": "\n                                                        Soedesco\n                                                    ",
+		"release_data": "Mar 26, 2019",
+		"users_rating": "5.8"
 	},
 	{
 		"critic_rating": "64",
-		"release_date": "Jun 25, 2019",
-		"title": "\n                            The Sinking City\n                                                    ",
-		"user_rating": "6.9"
+		"developer": "\n                    Pixel Maniacs                ",
+		"genres": [
+			"Action",
+			"Shooter",
+			"First-Person",
+			"Arcade"
+		],
+		"name": "ChromaGun VR",
+		"publisher": "\n                                                        Pixel Maniacs\n                                                    ",
+		"release_data": "Feb 19, 2019",
+		"users_rating": "5.1"
 	},
 	{
 		"critic_rating": "64",
-		"release_date": "Apr 16, 2019",
-		"title": "\n                            Snooker 19\n                                                    ",
-		"user_rating": "4.0"
+		"developer": "\n                    Frogwares                ",
+		"genres": [
+			"Action Adventure",
+			"Survival"
+		],
+		"name": "The Sinking City",
+		"publisher": "\n                                                        Bigben Interactive\n                                                    ",
+		"release_data": "Jun 25, 2019",
+		"users_rating": "6.9"
+	},
+	{
+		"critic_rating": "64",
+		"developer": "\n                    Brain Seal Ltd                ",
+		"genres": [
+			"Action",
+			"Beat-'Em-Up",
+			"2D"
+		],
+		"name": "Story of a Gladiator",
+		"publisher": "\n                                                        Brain Seal Ltd\n                                                    ",
+		"release_data": "Nov 26, 2019",
+		"users_rating": "tbd"
+	},
+	{
+		"critic_rating": "64",
+		"developer": "\n                    Lab42                ",
+		"genres": [
+			"Sports",
+			"Individual",
+			"Billiards"
+		],
+		"name": "Snooker 19",
+		"publisher": "\n                                                        Ripstone\n                                                    ",
+		"release_data": "Apr 16, 2019",
+		"users_rating": "4.6"
 	},
 	{
 		"critic_rating": "63",
-		"release_date": "Jul 26, 2019",
-		"title": "\n                            Wolfenstein: Youngblood\n                                                    ",
-		"user_rating": "2.6"
+		"developer": "\n                    MachineGames                ",
+		"genres": [
+			"Action",
+			"Shooter",
+			"First-Person",
+			"Arcade"
+		],
+		"name": "Wolfenstein: Youngblood",
+		"publisher": "\n                                                        Bethesda Softworks\n                                                    ",
+		"release_data": "Jul 26, 2019",
+		"users_rating": "2.6"
 	},
 	{
 		"critic_rating": "63",
-		"release_date": "Aug  6, 2019",
-		"title": "\n                            Metal Wolf Chaos XD\n                                                    ",
-		"user_rating": "6.0"
+		"developer": "\n                    From Software, General Arcade                ",
+		"genres": [
+			"Simulation",
+			"Vehicle",
+			"Combat"
+		],
+		"name": "Metal Wolf Chaos XD",
+		"publisher": "\n                                                        Devolver Digital\n                                                    ",
+		"release_data": "Aug  6, 2019",
+		"users_rating": "6.2"
 	},
 	{
 		"critic_rating": "63",
-		"release_date": "Apr 18, 2019",
-		"title": "\n                            Arcade Classics Anniversary Collection\n                                                    ",
-		"user_rating": "3.9"
+		"developer": "\n                    Mistfly Games                ",
+		"genres": [
+			"Simulation",
+			"Space",
+			"Combat"
+		],
+		"name": "Subdivision Infinity DX",
+		"publisher": "\n                                                        Blowfish Studios\n                                                    ",
+		"release_data": "Aug 16, 2019",
+		"users_rating": "tbd"
 	},
 	{
 		"critic_rating": "63",
-		"release_date": "Mar 26, 2019",
-		"title": "\n                            Space Junkies\n                                                    ",
-		"user_rating": "3.4"
+		"developer": "\n                    Konami                ",
+		"genres": [
+			"Miscellaneous",
+			"Compilation"
+		],
+		"name": "Arcade Classics Anniversary Collection",
+		"publisher": "\n                                                        Konami\n                                                    ",
+		"release_data": "Apr 18, 2019",
+		"users_rating": "3.9"
 	},
 	{
 		"critic_rating": "63",
-		"release_date": "Jun 18, 2019",
-		"title": "\n                            Citizens of Space\n                                                    ",
-		"user_rating": "6.0"
+		"developer": "\n                    Ubisoft Montpellier                ",
+		"genres": [
+			"Action",
+			"Arcade"
+		],
+		"name": "Space Junkies",
+		"publisher": "\n                                                        Ubisoft\n                                                    ",
+		"release_data": "Mar 26, 2019",
+		"users_rating": "3.4"
 	},
 	{
 		"critic_rating": "63",
-		"release_date": "Feb  1, 2019",
-		"title": "\n                            8-Bit Hordes\n                                                    ",
-		"user_rating": "3.0"
+		"developer": "\n                    Sega                ",
+		"genres": [
+			"Role-Playing",
+			"Japanese-Style"
+		],
+		"name": "Citizens of Space",
+		"publisher": "\n                                                        Sega\n                                                    ",
+		"release_data": "Jun 18, 2019",
+		"users_rating": "6.0"
 	},
 	{
 		"critic_rating": "63",
-		"release_date": "Oct 17, 2019",
-		"title": "\n                            Travis Strikes Again: No More Heroes - Complete Edition\n                                                    ",
-		"user_rating": "7.8"
+		"developer": "\n                    Sky9                ",
+		"genres": [
+			"Action Adventure",
+			"General"
+		],
+		"name": "A Knight's Quest",
+		"publisher": "\n                                                        Curve Digital\n                                                    ",
+		"release_data": "Oct 10, 2019",
+		"users_rating": "2.4"
 	},
 	{
 		"critic_rating": "63",
-		"release_date": "Mar  5, 2019",
-		"title": "\n                            The Occupation\n                                                    ",
-		"user_rating": "3.5"
+		"developer": "\n                    Petroglyph                ",
+		"genres": [
+			"Strategy",
+			"Real-Time",
+			"Command"
+		],
+		"name": "8-Bit Hordes",
+		"publisher": "\n                                                        Petroglyph\n                                                    ",
+		"release_data": "Feb  1, 2019",
+		"users_rating": "3.0"
 	},
 	{
 		"critic_rating": "63",
-		"release_date": "Jun  4, 2019",
-		"title": "\n                            Warhammer: Chaosbane\n                                                    ",
-		"user_rating": "4.2"
+		"developer": "\n                    Grasshopper Manufacture                ",
+		"genres": [
+			"Action",
+			"Beat-'Em-Up",
+			"3D"
+		],
+		"name": "Travis Strikes Again: No More Heroes - Complete Edition",
+		"publisher": "\n                                                        Marvelous Inc.\n                                                    ",
+		"release_data": "Oct 17, 2019",
+		"users_rating": "7.8"
 	},
 	{
 		"critic_rating": "63",
-		"release_date": "May 16, 2019",
-		"title": "\n                            Bubsy: Paws on Fire\n                                                    ",
-		"user_rating": "7.6"
+		"developer": "\n                    White Paper Games                ",
+		"genres": [
+			"Adventure",
+			"3D",
+			"First-Person"
+		],
+		"name": "The Occupation",
+		"publisher": "\n                                                        Sold Out\n                                                    ",
+		"release_data": "Mar  5, 2019",
+		"users_rating": "3.5"
+	},
+	{
+		"critic_rating": "63",
+		"developer": "\n                    Games Workshop                ",
+		"genres": [
+			"Role-Playing",
+			"Action RPG"
+		],
+		"name": "Warhammer: Chaosbane",
+		"publisher": "\n                                                        Bigben Interactive\n                                                    ",
+		"release_data": "Jun  4, 2019",
+		"users_rating": "4.2"
+	},
+	{
+		"critic_rating": "63",
+		"developer": "\n                    Choice Provisions                ",
+		"genres": [
+			"Action",
+			"Platformer",
+			"2D"
+		],
+		"name": "Bubsy: Paws on Fire",
+		"publisher": "\n                                                        Accolade\n                                                    ",
+		"release_data": "May 16, 2019",
+		"users_rating": "7.6"
+	},
+	{
+		"critic_rating": "63",
+		"developer": "\n                    Survios                ",
+		"genres": [
+			"Simulation",
+			"Marine",
+			"Combat"
+		],
+		"name": "Battlewake",
+		"publisher": "\n                                                        Survios\n                                                    ",
+		"release_data": "Sep 10, 2019",
+		"users_rating": "5.0"
 	},
 	{
 		"critic_rating": "62",
-		"release_date": "Sep 17, 2019",
-		"title": "\n                            Groundhog Day: Like Father Like Son\n                                                    ",
-		"user_rating": "5.0"
+		"developer": "\n                    Tequila Works, Sony Pictures Virtual Reality                ",
+		"genres": [
+			"Adventure",
+			"3D",
+			"First-Person"
+		],
+		"name": "Groundhog Day: Like Father Like Son",
+		"publisher": "\n                                                        Sony Pictures Virtual Reality\n                                                    ",
+		"release_data": "Sep 17, 2019",
+		"users_rating": "5.0"
 	},
 	{
 		"critic_rating": "62",
-		"release_date": "Apr  9, 2019",
-		"title": "\n                            Dangerous Driving\n                                                    ",
-		"user_rating": "3.7"
+		"developer": "\n                    Ubisoft                ",
+		"genres": [
+			"Action Adventure",
+			"Open-World"
+		],
+		"name": "Assassin's Creed Odyssey: Story Arc 1 - Legacy of the First Blade: Episode 2",
+		"publisher": "\n                                                        Ubisoft\n                                                    ",
+		"release_data": "Jan 15, 2019",
+		"users_rating": "4.2"
 	},
 	{
 		"critic_rating": "62",
-		"release_date": "Oct 29, 2019",
-		"title": "\n                            Super Monkey Ball: Banana Blitz HD\n                                                    ",
-		"user_rating": "5.5"
+		"developer": "\n                    Three Fields Entertainment                ",
+		"genres": [
+			"Racing",
+			"Arcade",
+			"Automobile"
+		],
+		"name": "Dangerous Driving",
+		"publisher": "\n                                                        Maximum Games\n                                                    ",
+		"release_data": "Apr  9, 2019",
+		"users_rating": "3.5"
 	},
 	{
 		"critic_rating": "62",
-		"release_date": "Feb 13, 2019",
-		"title": "\n                            Intruders: Hide and Seek\n                                                    ",
-		"user_rating": "6.5"
+		"developer": "\n                    Sega                ",
+		"genres": [
+			"Miscellaneous",
+			"Party / Minigame"
+		],
+		"name": "Super Monkey Ball: Banana Blitz HD",
+		"publisher": "\n                                                        Sega\n                                                    ",
+		"release_data": "Oct 29, 2019",
+		"users_rating": "5.5"
 	},
 	{
 		"critic_rating": "62",
-		"release_date": "Mar 26, 2019",
-		"title": "\n                            Outward\n                                                    ",
-		"user_rating": "6.9"
+		"developer": "\n                    Tessera Studios                ",
+		"genres": [
+			"Action Adventure",
+			"General"
+		],
+		"name": "Intruders: Hide and Seek",
+		"publisher": "\n                                                        Daedalic Entertainment\n                                                    ",
+		"release_data": "Feb 13, 2019",
+		"users_rating": "6.5"
 	},
 	{
 		"critic_rating": "62",
-		"release_date": "Nov  5, 2019",
-		"title": "\n                            Conception Plus: Maidens of the Twelve Stars\n                                                    ",
-		"user_rating": "4.2"
+		"developer": "\n                    Nine Dots Studio                ",
+		"genres": [
+			"Role-Playing",
+			"General"
+		],
+		"name": "Outward",
+		"publisher": "\n                                                        Deep Silver\n                                                    ",
+		"release_data": "Mar 26, 2019",
+		"users_rating": "6.9"
+	},
+	{
+		"critic_rating": "62",
+		"developer": "\n                    Spike Chunsoft                ",
+		"genres": [
+			"Role-Playing",
+			"Japanese-Style"
+		],
+		"name": "Conception Plus: Maidens of the Twelve Stars",
+		"publisher": "\n                                                        Spike Chunsoft\n                                                    ",
+		"release_data": "Nov  5, 2019",
+		"users_rating": "4.2"
 	},
 	{
 		"critic_rating": "61",
-		"release_date": "Oct 17, 2019",
-		"title": "\n                            Monkey King: Hero is Back\n                                                    ",
-		"user_rating": "6.6"
+		"developer": "\n                    HexaDrive, Oasis Games                ",
+		"genres": [
+			"Action",
+			"General"
+		],
+		"name": "Monkey King: Hero is Back",
+		"publisher": "\n                                                        Oasis Games\n                                                    ",
+		"release_data": "Oct 17, 2019",
+		"users_rating": "6.6"
+	},
+	{
+		"critic_rating": "61",
+		"developer": "\n                    Pearl Abyss                ",
+		"genres": [
+			"Role-Playing",
+			"Massively Multiplayer"
+		],
+		"name": "Black Desert",
+		"publisher": "\n                                                        Pearl Abyss\n                                                    ",
+		"release_data": "Aug 22, 2019",
+		"users_rating": "4.3"
+	},
+	{
+		"critic_rating": "61",
+		"developer": "\n                    stillalive studios                ",
+		"genres": [
+			"Simulation",
+			"Vehicle",
+			"Civilian"
+		],
+		"name": "Bus Simulator",
+		"publisher": "\n                                                        astragon\n                                                    ",
+		"release_data": "Aug 14, 2019",
+		"users_rating": "6.6"
 	},
 	{
 		"critic_rating": "60",
-		"release_date": "Sep 16, 2019",
-		"title": "\n                            Massira\n                                                    ",
-		"user_rating": "5.5"
+		"developer": "\n                    Frost Monkey Games                ",
+		"genres": [
+			"Adventure",
+			"3D",
+			"Third-Person"
+		],
+		"name": "Massira",
+		"publisher": "\n                                                        Factoria Cultural Gestio, S.L.\n                                                    ",
+		"release_data": "Sep 16, 2019",
+		"users_rating": "5.5"
 	},
 	{
 		"critic_rating": "60",
-		"release_date": "Nov 28, 2019",
-		"title": "\n                            Asterix & Obelix XXL 3: The Crystal Menhir\n                                                    ",
-		"user_rating": "0.8"
+		"developer": "\n                    Anuman Interactive                ",
+		"genres": [
+			"Action",
+			"Platformer",
+			"3D"
+		],
+		"name": "Asterix & Obelix XXL 3: The Crystal Menhir",
+		"publisher": "\n                                                        Microids\n                                                    ",
+		"release_data": "Nov 28, 2019",
+		"users_rating": "3.1"
 	},
 	{
 		"critic_rating": "60",
-		"release_date": "Aug 20, 2019",
-		"title": "\n                            Truck Racing Championship\n                                                    ",
-		"user_rating": "2.3"
+		"developer": "\n                    AMATA K.K.                ",
+		"genres": [
+			"Action",
+			"General"
+		],
+		"name": "Last Labyrinth",
+		"publisher": "\n                                                        AMATA K.K.\n                                                    ",
+		"release_data": "Nov 13, 2019",
+		"users_rating": "tbd"
 	},
 	{
 		"critic_rating": "60",
-		"release_date": "Jun 25, 2019",
-		"title": "\n                            Super Neptunia RPG\n                                                    ",
-		"user_rating": "3.4"
+		"developer": "\n                    N-RACING                ",
+		"genres": [
+			"Racing",
+			"Simulation",
+			"Automobile"
+		],
+		"name": "Truck Racing Championship",
+		"publisher": "\n                                                        Bigben Interactive\n                                                    ",
+		"release_data": "Aug 20, 2019",
+		"users_rating": "2.3"
+	},
+	{
+		"critic_rating": "60",
+		"developer": "\n                    Laser Guided Games, LLC                ",
+		"genres": [
+			"Role-Playing",
+			"Action RPG"
+		],
+		"name": "Golem Gates",
+		"publisher": "\n                                                        Digerati Distribution\n                                                    ",
+		"release_data": "May 28, 2019",
+		"users_rating": "tbd"
+	},
+	{
+		"critic_rating": "60",
+		"developer": "\n                    Square Enix                ",
+		"genres": [
+			"Role-Playing",
+			"Action RPG"
+		],
+		"name": "Final Fantasy XV: Episode Ardyn",
+		"publisher": "\n                                                        Square Enix\n                                                    ",
+		"release_data": "Mar 26, 2019",
+		"users_rating": "8.5"
+	},
+	{
+		"critic_rating": "60",
+		"developer": "\n                    Artisan Studios                ",
+		"genres": [
+			"Role-Playing",
+			"Action RPG"
+		],
+		"name": "Super Neptunia RPG",
+		"publisher": "\n                                                        Idea Factory\n                                                    ",
+		"release_data": "Jun 25, 2019",
+		"users_rating": "3.7"
 	},
 	{
 		"critic_rating": "59",
-		"release_date": "Nov 19, 2019",
-		"title": "\n                            Narcos: Rise of the Cartels\n                                                    ",
-		"user_rating": "1.7"
+		"developer": "\n                    Kuju Entertainment                ",
+		"genres": [
+			"Action",
+			"Strategy",
+			"Turn-Based",
+			"General",
+			"Tactics"
+		],
+		"name": "Narcos: Rise of the Cartels",
+		"publisher": "\n                                                        Curve Digital\n                                                    ",
+		"release_data": "Nov 19, 2019",
+		"users_rating": "2.2"
 	},
 	{
 		"critic_rating": "59",
-		"release_date": "Jan 17, 2019",
-		"title": "\n                            YIIK: A Postmodern RPG\n                                                    ",
-		"user_rating": "4.0"
+		"developer": "\n                    Ackkstudios                ",
+		"genres": [
+			"Role-Playing",
+			"Japanese-Style"
+		],
+		"name": "YIIK: A Postmodern RPG",
+		"publisher": "\n                                                        Ackkstudios\n                                                    ",
+		"release_data": "Jan 17, 2019",
+		"users_rating": "4.0"
 	},
 	{
 		"critic_rating": "59",
-		"release_date": "Apr 16, 2019",
-		"title": "\n                            Immortal Legacy: The Jade Cipher\n                                                    ",
-		"user_rating": "7.5"
+		"developer": "\n                    Viva Games                ",
+		"genres": [
+			"Action",
+			"Shooter",
+			"Light Gun"
+		],
+		"name": "Immortal Legacy: The Jade Cipher",
+		"publisher": "\n                                                        Viva Games\n                                                    ",
+		"release_data": "Apr 16, 2019",
+		"users_rating": "7.5"
 	},
 	{
 		"critic_rating": "59",
-		"release_date": "Nov  5, 2019",
-		"title": "\n                            Blacksad: Under the Skin\n                                                    ",
-		"user_rating": "5.3"
+		"developer": "\n                    Weappy Studio                ",
+		"genres": [
+			"Strategy",
+			"Turn-Based",
+			"Tactics"
+		],
+		"name": "Rebel Cops",
+		"publisher": "\n                                                        Weappy Studio\n                                                    ",
+		"release_data": "Sep 17, 2019",
+		"users_rating": "tbd"
 	},
 	{
 		"critic_rating": "59",
-		"release_date": "Jul 16, 2019",
-		"title": "\n                            Darksiders III: Keepers of the Void\n                                                    ",
-		"user_rating": "1.8"
+		"developer": "\n                    Pendulo Studios                ",
+		"genres": [
+			"Adventure",
+			"3D",
+			"First-Person"
+		],
+		"name": "Blacksad: Under the Skin",
+		"publisher": "\n                                                        Microids\n                                                    ",
+		"release_data": "Nov  5, 2019",
+		"users_rating": "5.7"
 	},
 	{
 		"critic_rating": "59",
-		"release_date": "Sep 10, 2019",
-		"title": "\n                            Utawarerumono Zan\n                                                    ",
-		"user_rating": "3.8"
+		"developer": "\n                    Gunfire Games                ",
+		"genres": [
+			"Action Adventure",
+			"Open-World"
+		],
+		"name": "Darksiders III: Keepers of the Void",
+		"publisher": "\n                                                        THQ Nordic\n                                                    ",
+		"release_data": "Jul 16, 2019",
+		"users_rating": "1.8"
 	},
 	{
 		"critic_rating": "59",
-		"release_date": "Nov 15, 2019",
-		"title": "\n                            Golem\n                                                    ",
-		"user_rating": "7.8"
+		"developer": "\n                    Team Junkfish                ",
+		"genres": [
+			"Strategy",
+			"Turn-Based",
+			"Tactics"
+		],
+		"name": "Attack of the Earthlings",
+		"publisher": "\n                                                        Wales Interactive Ltd.\n                                                    ",
+		"release_data": "Mar  5, 2019",
+		"users_rating": "2.0"
+	},
+	{
+		"critic_rating": "59",
+		"developer": "\n                    Aqua Plus                ",
+		"genres": [
+			"Action",
+			"General"
+		],
+		"name": "Utawarerumono Zan",
+		"publisher": "\n                                                        NIS America\n                                                    ",
+		"release_data": "Sep 10, 2019",
+		"users_rating": "3.8"
+	},
+	{
+		"critic_rating": "59",
+		"developer": "\n                    RED Entertainment                ",
+		"genres": [
+			"Adventure",
+			"General",
+			"Visual Novel"
+		],
+		"name": "Our World Is Ended.",
+		"publisher": "\n                                                        PQube\n                                                    ",
+		"release_data": "Apr 18, 2019",
+		"users_rating": "tbd"
+	},
+	{
+		"critic_rating": "59",
+		"developer": "\n                    Highwire Games                ",
+		"genres": [
+			"Action",
+			"General"
+		],
+		"name": "Golem",
+		"publisher": "\n                                                        Highwire Games\n                                                    ",
+		"release_data": "Nov 15, 2019",
+		"users_rating": "7.6"
 	},
 	{
 		"critic_rating": "58",
-		"release_date": "Mar 15, 2019",
-		"title": "\n                            One Piece: World Seeker\n                                                    ",
-		"user_rating": "4.1"
+		"developer": "\n                    Anshar Studios                ",
+		"genres": [
+			"Action",
+			"Shooter",
+			"Light Gun"
+		],
+		"name": "Telefrag VR",
+		"publisher": "\n                                                        Anshar Studios\n                                                    ",
+		"release_data": "Jul 19, 2019",
+		"users_rating": "2.3"
 	},
 	{
 		"critic_rating": "58",
-		"release_date": "Apr 22, 2019",
-		"title": "\n                            Jupiter & Mars\n                                                    ",
-		"user_rating": "4.9"
+		"developer": "\n                    Ganbarion, Bandai Namco Games                ",
+		"genres": [
+			"General",
+			"Action Adventure",
+			"Open-World"
+		],
+		"name": "One Piece: World Seeker",
+		"publisher": "\n                                                        Bandai Namco Games\n                                                    ",
+		"release_data": "Mar 15, 2019",
+		"users_rating": "4.1"
 	},
 	{
 		"critic_rating": "58",
-		"release_date": "Aug  2, 2019",
-		"title": "\n                            The Church in the Darkness\n                                                    ",
-		"user_rating": "4.2"
+		"developer": "\n                    Tigertron                ",
+		"genres": [
+			"Simulation",
+			"General"
+		],
+		"name": "Jupiter & Mars",
+		"publisher": "\n                                                        Tigertron\n                                                    ",
+		"release_data": "Apr 22, 2019",
+		"users_rating": "4.9"
+	},
+	{
+		"critic_rating": "58",
+		"developer": "\n                    Team Gotham                ",
+		"genres": [
+			"Puzzle",
+			"Action"
+		],
+		"name": "Solo: Islands of the Heart",
+		"publisher": "\n                                                        Merge Games\n                                                    ",
+		"release_data": "Jul 30, 2019",
+		"users_rating": "tbd"
+	},
+	{
+		"critic_rating": "58",
+		"developer": "\n                    Bolverk Games                ",
+		"genres": [
+			"Action",
+			"Shooter",
+			"Light Gun"
+		],
+		"name": "Dick Wilde 2",
+		"publisher": "\n                                                        Bolverk Games\n                                                    ",
+		"release_data": "Feb 19, 2019",
+		"users_rating": "tbd"
+	},
+	{
+		"critic_rating": "58",
+		"developer": "\n                    Paranoid Productions                ",
+		"genres": [
+			"Action Adventure",
+			"Open-World"
+		],
+		"name": "The Church in the Darkness",
+		"publisher": "\n                                                        Paranoid Productions\n                                                    ",
+		"release_data": "Aug  2, 2019",
+		"users_rating": "5.0"
+	},
+	{
+		"critic_rating": "58",
+		"developer": "\n                    Bandai Namco Games                ",
+		"genres": [
+			"Action Adventure",
+			"Survival"
+		],
+		"name": "Tokyo Ghoul: re Call to Exist",
+		"publisher": "\n                                                        Bandai Namco Games\n                                                    ",
+		"release_data": "Nov 15, 2019",
+		"users_rating": "6.3"
 	},
 	{
 		"critic_rating": "57",
-		"release_date": "Jul  4, 2019",
-		"title": "\n                            Stranger Things 3: The Game\n                                                    ",
-		"user_rating": "4.5"
+		"developer": "\n                    BonusXP                ",
+		"genres": [
+			"Action Adventure",
+			"General"
+		],
+		"name": "Stranger Things 3: The Game",
+		"publisher": "\n                                                        Netflix\n                                                    ",
+		"release_data": "Jul  4, 2019",
+		"users_rating": "4.9"
 	},
 	{
 		"critic_rating": "57",
-		"release_date": "Feb 26, 2019",
-		"title": "\n                            The LEGO Movie 2 Videogame\n                                                    ",
-		"user_rating": "1.4"
+		"developer": "\n                    TT Games                ",
+		"genres": [
+			"Action Adventure",
+			"General"
+		],
+		"name": "The LEGO Movie 2 Videogame",
+		"publisher": "\n                                                        Warner Bros. Interactive Entertainment\n                                                    ",
+		"release_data": "Feb 26, 2019",
+		"users_rating": "1.8"
+	},
+	{
+		"critic_rating": "57",
+		"developer": "\n                    Robot Entertainment                ",
+		"genres": [
+			"Action Adventure",
+			"Linear"
+		],
+		"name": "ReadySet Heroes",
+		"publisher": "\n                                                        Sony Interactive Entertainment\n                                                    ",
+		"release_data": "Oct  1, 2019",
+		"users_rating": "6.7"
+	},
+	{
+		"critic_rating": "57",
+		"developer": "\n                    Climax Studios                ",
+		"genres": [
+			"Action Adventure",
+			"General",
+			"Linear"
+		],
+		"name": "DreamWorks Dragons Dawn of New Riders",
+		"publisher": "\n                                                        Outright Games\n                                                    ",
+		"release_data": "Feb 15, 2019",
+		"users_rating": "4.1"
 	},
 	{
 		"critic_rating": "56",
-		"release_date": "Feb 15, 2019",
-		"title": "\n                            Jump Force\n                                                    ",
-		"user_rating": "4.1"
+		"developer": "\n                    Spike Chunsoft Co. Ltd., Spike Chunsoft                ",
+		"genres": [
+			"Action Adventure",
+			"General",
+			"Action",
+			"Fighting",
+			"3D"
+		],
+		"name": "Jump Force",
+		"publisher": "\n                                                        Bandai Namco Games\n                                                    ",
+		"release_data": "Feb 15, 2019",
+		"users_rating": "4.1"
 	},
 	{
 		"critic_rating": "56",
-		"release_date": "Oct  1, 2019",
-		"title": "\n                            Tom Clancy's Ghost Recon: Breakpoint\n                                                    ",
-		"user_rating": "2.7"
+		"developer": "\n                    Lunar Great Wall Studios                ",
+		"genres": [
+			"Adventure",
+			"3D",
+			"Third-Person"
+		],
+		"name": "Another Sight",
+		"publisher": "\n                                                        Toplitz Productions\n                                                    ",
+		"release_data": "Jun 19, 2019",
+		"users_rating": "tbd"
+	},
+	{
+		"critic_rating": "56",
+		"developer": "\n                    Bigben Interactive                ",
+		"genres": [
+			"Action",
+			"General"
+		],
+		"name": "Tour de France 2019",
+		"publisher": "\n                                                        Bigben Interactive\n                                                    ",
+		"release_data": "Jul  2, 2019",
+		"users_rating": "4.7"
+	},
+	{
+		"critic_rating": "56",
+		"developer": "\n                    Ubisoft Paris                ",
+		"genres": [
+			"Action Adventure",
+			"Open-World"
+		],
+		"name": "Tom Clancy's Ghost Recon: Breakpoint",
+		"publisher": "\n                                                        Ubisoft\n                                                    ",
+		"release_data": "Oct  1, 2019",
+		"users_rating": "2.7"
 	},
 	{
 		"critic_rating": "55",
-		"release_date": "Oct 18, 2019",
-		"title": "\n                            Ice Age: Scrat's Nutty Adventure\n                                                    ",
-		"user_rating": "5.6"
+		"developer": "\n                    Blue Sky Studios                ",
+		"genres": [
+			"Action Adventure",
+			"General"
+		],
+		"name": "Ice Age: Scrat's Nutty Adventure",
+		"publisher": "\n                                                        Outright Games\n                                                    ",
+		"release_data": "Oct 18, 2019",
+		"users_rating": "5.6"
 	},
 	{
 		"critic_rating": "55",
-		"release_date": "Nov 12, 2019",
-		"title": "\n                            VR Ping Pong Pro\n                                                    ",
-		"user_rating": "tbd"
+		"developer": "\n                    Reddoll Srl                ",
+		"genres": [
+			"Sports",
+			"Individual",
+			"Other"
+		],
+		"name": "VR Ping Pong Pro",
+		"publisher": "\n                                                        Merge Games\n                                                    ",
+		"release_data": "Nov 12, 2019",
+		"users_rating": "tbd"
 	},
 	{
 		"critic_rating": "55",
-		"release_date": "Apr 30, 2019",
-		"title": "\n                            Fade to Silence\n                                                    ",
-		"user_rating": "4.3"
+		"developer": "\n                    Winking Entertainment                ",
+		"genres": [
+			"Simulation",
+			"Virtual",
+			"Career"
+		],
+		"name": "I'm Hungry",
+		"publisher": "\n                                                        Winking Entertainment\n                                                    ",
+		"release_data": "Jul  2, 2019",
+		"users_rating": "tbd"
+	},
+	{
+		"critic_rating": "55",
+		"developer": "\n                    SOFTSTAR ENTERTAINMENT INC.                ",
+		"genres": [
+			"Role-Playing",
+			"Japanese-Style"
+		],
+		"name": "Sword & Fairy 6",
+		"publisher": "\n                                                        EastAsiaSoft\n                                                    ",
+		"release_data": "Apr  2, 2019",
+		"users_rating": "3.4"
+	},
+	{
+		"critic_rating": "55",
+		"developer": "\n                    Black Forest Games                ",
+		"genres": [
+			"Action Adventure",
+			"Survival"
+		],
+		"name": "Fade to Silence",
+		"publisher": "\n                                                        THQ Nordic\n                                                    ",
+		"release_data": "Apr 30, 2019",
+		"users_rating": "4.3"
 	},
 	{
 		"critic_rating": "54",
-		"release_date": "Feb 22, 2019",
-		"title": "\n                            Anthem\n                                                    ",
-		"user_rating": "3.4"
+		"developer": "\n                    BioWare                ",
+		"genres": [
+			"Role-Playing",
+			"Action RPG"
+		],
+		"name": "Anthem",
+		"publisher": "\n                                                        Electronic Arts\n                                                    ",
+		"release_data": "Feb 22, 2019",
+		"users_rating": "3.5"
+	},
+	{
+		"critic_rating": "54",
+		"developer": "\n                    Nippon Ichi Software                ",
+		"genres": [
+			"Strategy",
+			"General"
+		],
+		"name": "The Princess Guide",
+		"publisher": "\n                                                        NIS America\n                                                    ",
+		"release_data": "Mar 26, 2019",
+		"users_rating": "4.5"
 	},
 	{
 		"critic_rating": "53",
-		"release_date": "Jul 10, 2019",
-		"title": "\n                            SolSeraph\n                                                    ",
-		"user_rating": "3.0"
+		"developer": "\n                    Ground Shatter Ltd.                ",
+		"genres": [
+			"Action",
+			"Shooter",
+			"First-Person",
+			"Arcade"
+		],
+		"name": "RICO",
+		"publisher": "\n                                                        Rising Star Games\n                                                    ",
+		"release_data": "Mar 12, 2019",
+		"users_rating": "2.2"
+	},
+	{
+		"critic_rating": "53",
+		"developer": "\n                    ACE Team                ",
+		"genres": [
+			"Action Adventure",
+			"General"
+		],
+		"name": "SolSeraph",
+		"publisher": "\n                                                        Sega\n                                                    ",
+		"release_data": "Jul 10, 2019",
+		"users_rating": "3.0"
+	},
+	{
+		"critic_rating": "53",
+		"developer": "\n                    Rainbow Studios                ",
+		"genres": [
+			"Racing",
+			"Arcade",
+			"Automobile"
+		],
+		"name": "Monster Jam Steel Titans",
+		"publisher": "\n                                                        THQ Nordic\n                                                    ",
+		"release_data": "Jun 25, 2019",
+		"users_rating": "3.7"
 	},
 	{
 		"critic_rating": "52",
-		"release_date": "Nov 12, 2019",
-		"title": "\n                            Doctor Who: The Edge Of Time\n                                                    ",
-		"user_rating": "6.5"
+		"developer": "\n                    Maze Theory                ",
+		"genres": [
+			"Adventure",
+			"3D",
+			"First-Person"
+		],
+		"name": "Doctor Who: The Edge Of Time",
+		"publisher": "\n                                                        PlayStack\n                                                    ",
+		"release_data": "Nov 12, 2019",
+		"users_rating": "6.5"
 	},
 	{
 		"critic_rating": "52",
-		"release_date": "Feb 12, 2019",
-		"title": "\n                            Eden-Tomorrow\n                                                    ",
-		"user_rating": "5.3"
+		"developer": "\n                    Soul Pix                ",
+		"genres": [
+			"Action Adventure",
+			"General"
+		],
+		"name": "Eden-Tomorrow",
+		"publisher": "\n                                                        Soul Pix\n                                                    ",
+		"release_data": "Feb 12, 2019",
+		"users_rating": "5.3"
 	},
 	{
 		"critic_rating": "52",
-		"release_date": "Sep 24, 2019",
-		"title": "\n                            Contra: Rogue Corps\n                                                    ",
-		"user_rating": "4.4"
+		"developer": "\n                    Konami                ",
+		"genres": [
+			"Action",
+			"Shooter",
+			"Shoot-'Em-Up",
+			"Top-Down"
+		],
+		"name": "Contra: Rogue Corps",
+		"publisher": "\n                                                        Konami\n                                                    ",
+		"release_data": "Sep 24, 2019",
+		"users_rating": "4.3"
 	},
 	{
 		"critic_rating": "52",
-		"release_date": "Feb 28, 2019",
-		"title": "\n                            Fimbul\n                                                    ",
-		"user_rating": "1.5"
+		"developer": "\n                    Zaxis                ",
+		"genres": [
+			"Action Adventure",
+			"General"
+		],
+		"name": "Fimbul",
+		"publisher": "\n                                                        EuroVideo Medien\n                                                    ",
+		"release_data": "Feb 28, 2019",
+		"users_rating": "1.5"
+	},
+	{
+		"critic_rating": "52",
+		"developer": "\n                    Amazon Game Studios                ",
+		"genres": [
+			"Racing",
+			"Arcade",
+			"Automobile"
+		],
+		"name": "The Grand Tour Game",
+		"publisher": "\n                                                        Amazon Game Studios\n                                                    ",
+		"release_data": "Jan 15, 2019",
+		"users_rating": "6.1"
 	},
 	{
 		"critic_rating": "50",
-		"release_date": "Jul 26, 2019",
-		"title": "\n                            Wolfenstein: Cyberpilot\n                                                    ",
-		"user_rating": "3.7"
+		"developer": "\n                    MachineGames                ",
+		"genres": [
+			"Action",
+			"Shooter",
+			"First-Person",
+			"Arcade"
+		],
+		"name": "Wolfenstein: Cyberpilot",
+		"publisher": "\n                                                        Bethesda Softworks\n                                                    ",
+		"release_data": "Jul 26, 2019",
+		"users_rating": "3.8"
 	},
 	{
 		"critic_rating": "49",
-		"release_date": "Jan 15, 2019",
-		"title": "\n                            Vane\n                                                    ",
-		"user_rating": "5.3"
+		"developer": "\n                    Friend & Foe                ",
+		"genres": [
+			"Adventure",
+			"General"
+		],
+		"name": "Vane",
+		"publisher": "\n                                                        Friend & Foe\n                                                    ",
+		"release_data": "Jan 15, 2019",
+		"users_rating": "5.3"
 	},
 	{
 		"critic_rating": "47",
-		"release_date": "Aug 27, 2019",
-		"title": "\n                            Decay of Logos\n                                                    ",
-		"user_rating": "5.0"
+		"developer": "\n                    Amplify Creations                ",
+		"genres": [
+			"Role-Playing",
+			"Action RPG"
+		],
+		"name": "Decay of Logos",
+		"publisher": "\n                                                        Rising Star Games\n                                                    ",
+		"release_data": "Aug 27, 2019",
+		"users_rating": "5.0"
 	},
 	{
 		"critic_rating": "47",
-		"release_date": "Dec 10, 2019",
-		"title": "\n                            Terminator: Resistance\n                                                    ",
-		"user_rating": "6.9"
+		"developer": "\n                    Teyon                ",
+		"genres": [
+			"Action",
+			"Shooter",
+			"First-Person",
+			"Arcade"
+		],
+		"name": "Terminator: Resistance",
+		"publisher": "\n                                                        Reef Entertainment\n                                                    ",
+		"release_data": "Dec 10, 2019",
+		"users_rating": "7.2"
 	},
 	{
 		"critic_rating": "47",
-		"release_date": "Nov 12, 2019",
-		"title": "\n                            Bee Simulator\n                                                    ",
-		"user_rating": "7.0"
+		"developer": "\n                    Corecell Technology                ",
+		"genres": [
+			"Action",
+			"Platformer",
+			"2D"
+		],
+		"name": "AeternoBlade II",
+		"publisher": "\n                                                        Corecell Technology\n                                                    ",
+		"release_data": "Oct 11, 2019",
+		"users_rating": "5.4"
+	},
+	{
+		"critic_rating": "47",
+		"developer": "\n                    Varsav Game Studios                ",
+		"genres": [
+			"Simulation",
+			"General"
+		],
+		"name": "Bee Simulator",
+		"publisher": "\n                                                        Bigben Interactive\n                                                    ",
+		"release_data": "Nov 12, 2019",
+		"users_rating": "7.0"
+	},
+	{
+		"critic_rating": "46",
+		"developer": "\n                    Aurelien Regard Games                ",
+		"genres": [
+			"Action",
+			"General"
+		],
+		"name": "Away: Journey to the Unexpected",
+		"publisher": "\n                                                        Playdius\n                                                    ",
+		"release_data": "Feb  5, 2019",
+		"users_rating": "4.3"
 	},
 	{
 		"critic_rating": "45",
-		"release_date": "Mar 26, 2019",
-		"title": "\n                            Generation Zero\n                                                    ",
-		"user_rating": "5.8"
+		"developer": "\n                    Monster Couch                ",
+		"genres": [
+			"Miscellaneous",
+			"Party / Minigame"
+		],
+		"name": "Tetsumo Party",
+		"publisher": "\n                                                        Monster Couch\n                                                    ",
+		"release_data": "Jul 26, 2019",
+		"users_rating": "tbd"
+	},
+	{
+		"critic_rating": "45",
+		"developer": "\n                    Avalanche Studios                ",
+		"genres": [
+			"Action Adventure",
+			"Open-World"
+		],
+		"name": "Generation Zero",
+		"publisher": "\n                                                        Avalanche Studios\n                                                    ",
+		"release_data": "Mar 26, 2019",
+		"users_rating": "5.9"
 	},
 	{
 		"critic_rating": "44",
-		"release_date": "Jul 17, 2019",
-		"title": "\n                            Submersed\n                                                    ",
-		"user_rating": "4.4"
+		"developer": "\n                    Main Loop                ",
+		"genres": [
+			"Action Adventure",
+			"Survival"
+		],
+		"name": "Submersed",
+		"publisher": "\n                                                        Factoria Cultural Gestio, S.L.\n                                                    ",
+		"release_data": "Jul 17, 2019",
+		"users_rating": "4.4"
 	},
 	{
 		"critic_rating": "43",
-		"release_date": "Oct 22, 2019",
-		"title": "\n                            WWE 2K20\n                                                    ",
-		"user_rating": "1.4"
+		"developer": "\n                    Merge Games                ",
+		"genres": [
+			"Strategy",
+			"Real-Time",
+			"Tactics"
+		],
+		"name": "Riot: Civil Unrest",
+		"publisher": "\n                                                        Merge Games\n                                                    ",
+		"release_data": "Feb  5, 2019",
+		"users_rating": "2.1"
+	},
+	{
+		"critic_rating": "43",
+		"developer": "\n                    Visual Concepts                ",
+		"genres": [
+			"Sports",
+			"Individual",
+			"Combat",
+			"Wrestling"
+		],
+		"name": "WWE 2K20",
+		"publisher": "\n                                                        2K Games\n                                                    ",
+		"release_data": "Oct 22, 2019",
+		"users_rating": "1.4"
 	},
 	{
 		"critic_rating": "41",
-		"release_date": "May 24, 2019",
-		"title": "\n                            Dollhouse\n                                                    ",
-		"user_rating": "5.1"
+		"developer": "\n                    Creazn, Soedesco                ",
+		"genres": [
+			"Adventure",
+			"General"
+		],
+		"name": "Dollhouse",
+		"publisher": "\n                                                        Soedesco\n                                                    ",
+		"release_data": "May 24, 2019",
+		"users_rating": "4.7"
+	},
+	{
+		"critic_rating": "39",
+		"developer": "\n                    Ian Atherton                ",
+		"genres": [
+			"Role-Playing",
+			"Action RPG"
+		],
+		"name": "Crimson Keep",
+		"publisher": "\n                                                        Merge Games\n                                                    ",
+		"release_data": "Mar  5, 2019",
+		"users_rating": "tbd"
+	},
+	{
+		"critic_rating": "39",
+		"developer": "\n                    High Voltage Software                ",
+		"genres": [
+			"Action",
+			"Shooter",
+			"Shoot-'Em-Up",
+			"Top-Down"
+		],
+		"name": "Zombieland: Double Tap - Road Trip",
+		"publisher": "\n                                                        GameMill Entertainment\n                                                    ",
+		"release_data": "Oct 15, 2019",
+		"users_rating": "4.6"
 	},
 	{
 		"critic_rating": "37",
-		"release_date": "Mar  5, 2019",
-		"title": "\n                            Left Alive\n                                                    ",
-		"user_rating": "8.3"
+		"developer": "\n                    Square Enix, ilinx inc.                ",
+		"genres": [
+			"Action Adventure",
+			"General"
+		],
+		"name": "Left Alive",
+		"publisher": "\n                                                        Square Enix\n                                                    ",
+		"release_data": "Mar  5, 2019",
+		"users_rating": "8.3"
 	},
 	{
 		"critic_rating": "36",
-		"release_date": "Mar  5, 2019",
-		"title": "\n                            Eternity: The Last Unicorn\n                                                    ",
-		"user_rating": "4.0"
+		"developer": "\n                    Void Studios                ",
+		"genres": [
+			"Role-Playing",
+			"Action RPG"
+		],
+		"name": "Eternity: The Last Unicorn",
+		"publisher": "\n                                                        1C Company\n                                                    ",
+		"release_data": "Mar  5, 2019",
+		"users_rating": "3.6"
+	},
+	{
+		"critic_rating": "31",
+		"developer": "\n                    Dean 'Rocket' Hall                ",
+		"genres": [
+			"Sci-Fi",
+			"Action",
+			"Shooter",
+			"First-Person",
+			"Arcade"
+		],
+		"name": "DayZ",
+		"publisher": "\n                                                        Bohemia Interactive\n                                                    ",
+		"release_data": "May 30, 2019",
+		"users_rating": "2.9"
+	},
+	{
+		"critic_rating": "31",
+		"developer": "\n                    Wakefield Interactive                ",
+		"genres": [
+			"Puzzle",
+			"Action"
+		],
+		"name": "Where the Bees Make Honey",
+		"publisher": "\n                                                        Wakefield Interactive\n                                                    ",
+		"release_data": "Mar 29, 2019",
+		"users_rating": "3.2"
 	}
 ]
